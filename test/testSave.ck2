@@ -48,6 +48,13 @@ CK2txt
 			host=144998
 			ledger=
 			{
+				income=
+				{
+5.29003 2.52435 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 				}
+				lastmonthincometable=
+				{
+2.64502 1.26217 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 				}
+				lastmonthincome=3.90719
 			}
 		}
 		503196=
@@ -4029,7 +4036,7 @@ CK2txt
 		}
 		503796=
 		{
-			birth_name="P‰iviˆ"
+			birth_name="P√§ivi√∂"
 			birth_date="839.4.29"
 			attributes=
 			{
@@ -5112,7 +5119,7 @@ CK2txt
 		}
 		503842=
 		{
-			birth_name="ﬁora"
+			birth_name="√ûora"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -5303,7 +5310,7 @@ CK2txt
 		}
 		503850=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="841.1.20"
 			attributes=
 			{
@@ -5397,7 +5404,7 @@ CK2txt
 		}
 		503854=
 		{
-			birth_name="Gurˆr"
+			birth_name="Gu√∞r√∂√∞r"
 			birth_date="829.11.25"
 			attributes=
 			{
@@ -6419,7 +6426,7 @@ CK2txt
 		}
 		503897=
 		{
-			birth_name="AdÈmar"
+			birth_name="Ad√©mar"
 			birth_date="832.7.9"
 			attributes=
 			{
@@ -8244,7 +8251,7 @@ CK2txt
 		}
 		503974=
 		{
-			birth_name="…rrard"
+			birth_name="√ârrard"
 			birth_date="836.7.4"
 			attributes=
 			{
@@ -8361,7 +8368,7 @@ CK2txt
 		}
 		503979=
 		{
-			birth_name="BarthÈlÈmi"
+			birth_name="Barth√©l√©mi"
 			birth_date="833.9.6"
 			attributes=
 			{
@@ -8433,7 +8440,7 @@ CK2txt
 		}
 		503982=
 		{
-			birth_name="LÈonard"
+			birth_name="L√©onard"
 			birth_date="830.1.26"
 			attributes=
 			{
@@ -8527,7 +8534,7 @@ CK2txt
 		}
 		503986=
 		{
-			birth_name="PÈronelle"
+			birth_name="P√©ronelle"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -8621,7 +8628,7 @@ CK2txt
 		}
 		503990=
 		{
-			birth_name="JaufrÈ"
+			birth_name="Jaufr√©"
 			birth_date="833.3.10"
 			attributes=
 			{
@@ -8904,7 +8911,7 @@ CK2txt
 		}
 		504002=
 		{
-			birth_name="AmÈdÈe"
+			birth_name="Am√©d√©e"
 			birth_date="839.10.28"
 			attributes=
 			{
@@ -8999,7 +9006,7 @@ CK2txt
 		}
 		504006=
 		{
-			birth_name="…lodie"
+			birth_name="√âlodie"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -10915,7 +10922,7 @@ CK2txt
 		}
 		504087=
 		{
-			birth_name="FrÈdÈric"
+			birth_name="Fr√©d√©ric"
 			birth_date="840.9.13"
 			attributes=
 			{
@@ -10938,7 +10945,7 @@ CK2txt
 		}
 		504088=
 		{
-			birth_name="RobËrt"
+			birth_name="Rob√®rt"
 			birth_date="830.10.27"
 			attributes=
 			{
@@ -11126,7 +11133,7 @@ CK2txt
 		}
 		504096=
 		{
-			birth_name="AldÈric"
+			birth_name="Ald√©ric"
 			birth_date="838.6.25"
 			attributes=
 			{
@@ -11222,7 +11229,7 @@ CK2txt
 		}
 		504100=
 		{
-			birth_name="BÈrenger"
+			birth_name="B√©renger"
 			birth_date="831.4.26"
 			attributes=
 			{
@@ -11246,7 +11253,7 @@ CK2txt
 		}
 		504101=
 		{
-			birth_name="AndrÈ"
+			birth_name="Andr√©"
 			birth_date="841.4.13"
 			attributes=
 			{
@@ -11293,7 +11300,7 @@ CK2txt
 		}
 		504103=
 		{
-			birth_name="JaufrÈ"
+			birth_name="Jaufr√©"
 			birth_date="835.12.17"
 			attributes=
 			{
@@ -11482,7 +11489,7 @@ CK2txt
 		}
 		504111=
 		{
-			birth_name="StÈphanie"
+			birth_name="St√©phanie"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -11954,7 +11961,7 @@ CK2txt
 		}
 		504131=
 		{
-			birth_name="M·el-P·traic"
+			birth_name="M√°el-P√°traic"
 			birth_date="842.2.19"
 			attributes=
 			{
@@ -11978,7 +11985,7 @@ CK2txt
 		}
 		504132=
 		{
-			birth_name="M·Èl-D˙in"
+			birth_name="M√°√©l-D√∫in"
 			birth_date="833.11.2"
 			attributes=
 			{
@@ -12025,7 +12032,7 @@ CK2txt
 		}
 		504134=
 		{
-			birth_name="…icnech·n"
+			birth_name="√âicnech√°n"
 			birth_date="828.1.29"
 			attributes=
 			{
@@ -12451,7 +12458,7 @@ CK2txt
 		}
 		504152=
 		{
-			birth_name="M·el-MÛrda"
+			birth_name="M√°el-M√≥rda"
 			birth_date="837.7.4"
 			attributes=
 			{
@@ -12545,7 +12552,7 @@ CK2txt
 		}
 		504156=
 		{
-			birth_name="M·el-BrÌgte"
+			birth_name="M√°el-Br√≠gte"
 			birth_date="831.3.6"
 			attributes=
 			{
@@ -12783,7 +12790,7 @@ CK2txt
 		}
 		504166=
 		{
-			birth_name="FrÈdÈric"
+			birth_name="Fr√©d√©ric"
 			birth_date="841.2.1"
 			attributes=
 			{
@@ -13680,7 +13687,7 @@ CK2txt
 		}
 		504204=
 		{
-			birth_name="BÈrenger"
+			birth_name="B√©renger"
 			birth_date="831.6.26"
 			attributes=
 			{
@@ -13917,7 +13924,7 @@ CK2txt
 		}
 		504214=
 		{
-			birth_name="ManassËs"
+			birth_name="Manass√®s"
 			birth_date="828.1.27"
 			attributes=
 			{
@@ -14319,7 +14326,7 @@ CK2txt
 		}
 		504231=
 		{
-			birth_name="M·el-Ciar·in"
+			birth_name="M√°el-Ciar√°in"
 			birth_date="828.7.12"
 			attributes=
 			{
@@ -14390,7 +14397,7 @@ CK2txt
 		}
 		504234=
 		{
-			birth_name="M·el-BrÌgte"
+			birth_name="M√°el-Br√≠gte"
 			birth_date="838.10.12"
 			attributes=
 			{
@@ -14437,7 +14444,7 @@ CK2txt
 		}
 		504236=
 		{
-			birth_name="M·el-Sechlainn"
+			birth_name="M√°el-Sechlainn"
 			birth_date="834.12.14"
 			attributes=
 			{
@@ -14460,7 +14467,7 @@ CK2txt
 		}
 		504237=
 		{
-			birth_name="”rlaith"
+			birth_name="√ìrlaith"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -14931,7 +14938,7 @@ CK2txt
 		}
 		504257=
 		{
-			birth_name="G¸nzel"
+			birth_name="G√ºnzel"
 			birth_date="835.7.11"
 			attributes=
 			{
@@ -20095,7 +20102,7 @@ CK2txt
 		}
 		504476=
 		{
-			birth_name="KornÈl"
+			birth_name="Korn√©l"
 			birth_date="841.12.19"
 			attributes=
 			{
@@ -20166,7 +20173,7 @@ CK2txt
 		}
 		504479=
 		{
-			birth_name="M·Èl-D˙in"
+			birth_name="M√°√©l-D√∫in"
 			birth_date="838.9.3"
 			attributes=
 			{
@@ -20213,7 +20220,7 @@ CK2txt
 		}
 		504481=
 		{
-			birth_name="DabÌd"
+			birth_name="Dab√≠d"
 			birth_date="829.3.3"
 			attributes=
 			{
@@ -20237,7 +20244,7 @@ CK2txt
 		}
 		504482=
 		{
-			birth_name="Cin·ed"
+			birth_name="Cin√°ed"
 			birth_date="836.12.5"
 			attributes=
 			{
@@ -20261,7 +20268,7 @@ CK2txt
 		}
 		504483=
 		{
-			birth_name="Gilla-Comg·in"
+			birth_name="Gilla-Comg√°in"
 			birth_date="836.6.8"
 			attributes=
 			{
@@ -20285,7 +20292,7 @@ CK2txt
 		}
 		504484=
 		{
-			birth_name="M·el-Sechlainn"
+			birth_name="M√°el-Sechlainn"
 			birth_date="829.12.18"
 			attributes=
 			{
@@ -21302,7 +21309,7 @@ CK2txt
 		}
 		504527=
 		{
-			birth_name="AldÈric"
+			birth_name="Ald√©ric"
 			birth_date="833.4.23"
 			attributes=
 			{
@@ -22296,7 +22303,7 @@ CK2txt
 		}
 		504569=
 		{
-			birth_name="G¸nzel"
+			birth_name="G√ºnzel"
 			birth_date="839.11.11"
 			attributes=
 			{
@@ -26570,7 +26577,7 @@ CK2txt
 		}
 		504750=
 		{
-			birth_name="…douard"
+			birth_name="√âdouard"
 			birth_date="835.12.21"
 			attributes=
 			{
@@ -26617,7 +26624,7 @@ CK2txt
 		}
 		504752=
 		{
-			birth_name="ManassËs"
+			birth_name="Manass√®s"
 			birth_date="842.7.5"
 			attributes=
 			{
@@ -27185,7 +27192,7 @@ CK2txt
 		}
 		504776=
 		{
-			birth_name="Gilla-CrÌst"
+			birth_name="Gilla-Cr√≠st"
 			birth_date="831.7.25"
 			attributes=
 			{
@@ -27208,7 +27215,7 @@ CK2txt
 		}
 		504777=
 		{
-			birth_name="¡ed·n"
+			birth_name="√Åed√°n"
 			birth_date="838.5.10"
 			attributes=
 			{
@@ -27231,7 +27238,7 @@ CK2txt
 		}
 		504778=
 		{
-			birth_name="”lchobar"
+			birth_name="√ìlchobar"
 			birth_date="833.3.21"
 			attributes=
 			{
@@ -27491,7 +27498,7 @@ CK2txt
 		}
 		504789=
 		{
-			birth_name="¡d·rn"
+			birth_name="√Åd√°rn"
 			birth_date="836.10.3"
 			attributes=
 			{
@@ -27515,7 +27522,7 @@ CK2txt
 		}
 		504790=
 		{
-			birth_name="¡goston"
+			birth_name="√Ågoston"
 			birth_date="838.6.12"
 			attributes=
 			{
@@ -27539,7 +27546,7 @@ CK2txt
 		}
 		504791=
 		{
-			birth_name="Cs·k"
+			birth_name="Cs√°k"
 			birth_date="830.5.30"
 			attributes=
 			{
@@ -27587,7 +27594,7 @@ CK2txt
 		}
 		504793=
 		{
-			birth_name="Bern·t"
+			birth_name="Bern√°t"
 			birth_date="841.9.14"
 			attributes=
 			{
@@ -27681,7 +27688,7 @@ CK2txt
 		}
 		504797=
 		{
-			birth_name="MiklÛs"
+			birth_name="Mikl√≥s"
 			birth_date="832.10.16"
 			attributes=
 			{
@@ -27728,7 +27735,7 @@ CK2txt
 		}
 		504799=
 		{
-			birth_name="¡goston"
+			birth_name="√Ågoston"
 			birth_date="837.7.19"
 			attributes=
 			{
@@ -27799,7 +27806,7 @@ CK2txt
 		}
 		504802=
 		{
-			birth_name="Seo·n"
+			birth_name="Seo√°n"
 			birth_date="833.8.7"
 			attributes=
 			{
@@ -27870,7 +27877,7 @@ CK2txt
 		}
 		504805=
 		{
-			birth_name="¡ed·n"
+			birth_name="√Åed√°n"
 			birth_date="829.12.18"
 			attributes=
 			{
@@ -30892,7 +30899,7 @@ CK2txt
 		}
 		504933=
 		{
-			birth_name="M·el-Martain"
+			birth_name="M√°el-Martain"
 			birth_date="837.1.11"
 			attributes=
 			{
@@ -32377,7 +32384,7 @@ CK2txt
 		}
 		504996=
 		{
-			birth_name="LÈon"
+			birth_name="L√©on"
 			birth_date="834.3.7"
 			attributes=
 			{
@@ -33015,7 +33022,7 @@ CK2txt
 		}
 		505023=
 		{
-			birth_name="AdËle"
+			birth_name="Ad√®le"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -34382,7 +34389,7 @@ CK2txt
 		}
 		505081=
 		{
-			birth_name="»oavv·"
+			birth_name="√àoavv√°"
 			birth_date="837.11.9"
 			attributes=
 			{
@@ -34430,7 +34437,7 @@ CK2txt
 		}
 		505083=
 		{
-			birth_name="Oav·n"
+			birth_name="Oav√°n"
 			birth_date="835.9.16"
 			attributes=
 			{
@@ -34454,7 +34461,7 @@ CK2txt
 		}
 		505084=
 		{
-			birth_name="G·ktu"
+			birth_name="G√°ktu"
 			birth_date="841.7.19"
 			attributes=
 			{
@@ -34477,7 +34484,7 @@ CK2txt
 		}
 		505085=
 		{
-			birth_name="N·hkol"
+			birth_name="N√°hkol"
 			birth_date="832.2.24"
 			attributes=
 			{
@@ -34501,7 +34508,7 @@ CK2txt
 		}
 		505086=
 		{
-			birth_name="Juoks·hkk·"
+			birth_name="Juoks√°hkk√°"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -34549,7 +34556,7 @@ CK2txt
 		}
 		505088=
 		{
-			birth_name="N·innas"
+			birth_name="N√°innas"
 			birth_date="833.7.27"
 			attributes=
 			{
@@ -34573,7 +34580,7 @@ CK2txt
 		}
 		505089=
 		{
-			birth_name="R·stos"
+			birth_name="R√°stos"
 			birth_date="837.9.26"
 			attributes=
 			{
@@ -34621,7 +34628,7 @@ CK2txt
 		}
 		505091=
 		{
-			birth_name="J·rre"
+			birth_name="J√°rre"
 			birth_date="836.6.15"
 			attributes=
 			{
@@ -34645,7 +34652,7 @@ CK2txt
 		}
 		505092=
 		{
-			birth_name="Duoj·"
+			birth_name="Duoj√°"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -35352,7 +35359,7 @@ CK2txt
 		}
 		505122=
 		{
-			birth_name="KˆnÁek"
+			birth_name="K√∂n√ßek"
 			birth_date="828.5.8"
 			attributes=
 			{
@@ -35375,7 +35382,7 @@ CK2txt
 		}
 		505123=
 		{
-			birth_name="SirÁan"
+			birth_name="Sir√ßan"
 			birth_date="832.6.4"
 			attributes=
 			{
@@ -35422,7 +35429,7 @@ CK2txt
 		}
 		505125=
 		{
-			birth_name="Tˆrtogul"
+			birth_name="T√∂rtogul"
 			birth_date="828.10.3"
 			attributes=
 			{
@@ -37194,7 +37201,7 @@ CK2txt
 		}
 		505200=
 		{
-			birth_name="LÈonard"
+			birth_name="L√©onard"
 			birth_date="833.10.3"
 			attributes=
 			{
@@ -38214,7 +38221,7 @@ CK2txt
 		}
 		505243=
 		{
-			birth_name="…rrard"
+			birth_name="√ârrard"
 			birth_date="834.2.24"
 			attributes=
 			{
@@ -39700,7 +39707,7 @@ CK2txt
 		}
 		505306=
 		{
-			birth_name="÷temis"
+			birth_name="√ñtemis"
 			birth_date="842.8.29"
 			attributes=
 			{
@@ -39723,7 +39730,7 @@ CK2txt
 		}
 		505307=
 		{
-			birth_name="YeÁtirek"
+			birth_name="Ye√ßtirek"
 			birth_date="837.9.2"
 			attributes=
 			{
@@ -39746,7 +39753,7 @@ CK2txt
 		}
 		505308=
 		{
-			birth_name="KundaÁ"
+			birth_name="Kunda√ß"
 			birth_date="839.7.3"
 			attributes=
 			{
@@ -39770,7 +39777,7 @@ CK2txt
 		}
 		505309=
 		{
-			birth_name="YenÁepi"
+			birth_name="Yen√ßepi"
 			birth_date="829.12.1"
 			attributes=
 			{
@@ -39793,7 +39800,7 @@ CK2txt
 		}
 		505310=
 		{
-			birth_name="M‰n‰s"
+			birth_name="M√§n√§s"
 			birth_date="830.6.11"
 			attributes=
 			{
@@ -39840,7 +39847,7 @@ CK2txt
 		}
 		505312=
 		{
-			birth_name="«ilen"
+			birth_name="√áilen"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -39864,7 +39871,7 @@ CK2txt
 		}
 		505313=
 		{
-			birth_name="BernabÚ"
+			birth_name="Bernab√≤"
 			birth_date="834.6.13"
 			attributes=
 			{
@@ -40219,7 +40226,7 @@ CK2txt
 		}
 		505328=
 		{
-			birth_name="«at'n"
+			birth_name="√áat'n"
 			birth_date="835.6.14"
 			attributes=
 			{
@@ -40242,7 +40249,7 @@ CK2txt
 		}
 		505329=
 		{
-			birth_name="«at'n"
+			birth_name="√áat'n"
 			birth_date="829.7.7"
 			attributes=
 			{
@@ -40314,7 +40321,7 @@ CK2txt
 		}
 		505332=
 		{
-			birth_name="÷temis"
+			birth_name="√ñtemis"
 			birth_date="836.8.9"
 			attributes=
 			{
@@ -40526,7 +40533,7 @@ CK2txt
 		}
 		505341=
 		{
-			birth_name="Bij·s"
+			birth_name="Bij√°s"
 			birth_date="833.1.21"
 			attributes=
 			{
@@ -40549,7 +40556,7 @@ CK2txt
 		}
 		505342=
 		{
-			birth_name="Oav·n"
+			birth_name="Oav√°n"
 			birth_date="840.12.14"
 			attributes=
 			{
@@ -40573,7 +40580,7 @@ CK2txt
 		}
 		505343=
 		{
-			birth_name="¡ilu"
+			birth_name="√Åilu"
 			birth_date="830.1.22"
 			attributes=
 			{
@@ -40669,7 +40676,7 @@ CK2txt
 		}
 		505347=
 		{
-			birth_name="N·innas"
+			birth_name="N√°innas"
 			birth_date="829.7.13"
 			attributes=
 			{
@@ -40693,7 +40700,7 @@ CK2txt
 		}
 		505348=
 		{
-			birth_name="D·vgon"
+			birth_name="D√°vgon"
 			birth_date="833.11.12"
 			attributes=
 			{
@@ -40764,7 +40771,7 @@ CK2txt
 		}
 		505351=
 		{
-			birth_name="Dutt·"
+			birth_name="Dutt√°"
 			birth_date="839.4.14"
 			attributes=
 			{
@@ -40788,7 +40795,7 @@ CK2txt
 		}
 		505352=
 		{
-			birth_name="Leamm·"
+			birth_name="Leamm√°"
 			birth_date="832.3.23"
 			attributes=
 			{
@@ -40811,7 +40818,7 @@ CK2txt
 		}
 		505353=
 		{
-			birth_name="Nj·ves"
+			birth_name="Nj√°ves"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -40836,7 +40843,7 @@ CK2txt
 		}
 		505354=
 		{
-			birth_name="äahruz"
+			birth_name="¬äahruz"
 			birth_date="835.7.16"
 			attributes=
 			{
@@ -40860,7 +40867,7 @@ CK2txt
 		}
 		505355=
 		{
-			birth_name="MejbÓr"
+			birth_name="Mejb√Ær"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -40884,7 +40891,7 @@ CK2txt
 		}
 		505356=
 		{
-			birth_name="AdÈmar"
+			birth_name="Ad√©mar"
 			birth_date="840.5.17"
 			attributes=
 			{
@@ -40930,7 +40937,7 @@ CK2txt
 		}
 		505358=
 		{
-			birth_name="LÈon"
+			birth_name="L√©on"
 			birth_date="832.6.28"
 			attributes=
 			{
@@ -40954,7 +40961,7 @@ CK2txt
 		}
 		505359=
 		{
-			birth_name="BÈrengËre"
+			birth_name="B√©reng√®re"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -41119,7 +41126,7 @@ CK2txt
 		}
 		505366=
 		{
-			birth_name="JaufrÈ"
+			birth_name="Jaufr√©"
 			birth_date="840.11.11"
 			attributes=
 			{
@@ -41591,7 +41598,7 @@ CK2txt
 		}
 		505386=
 		{
-			birth_name="…tienne"
+			birth_name="√âtienne"
 			birth_date="836.12.13"
 			attributes=
 			{
@@ -45458,7 +45465,7 @@ CK2txt
 		}
 		505550=
 		{
-			birth_name="LÈon"
+			birth_name="L√©on"
 			birth_date="838.5.25"
 			attributes=
 			{
@@ -46713,7 +46720,7 @@ CK2txt
 		}
 		505603=
 		{
-			birth_name="Maˇroumfa"
+			birth_name="Ma√øroumfa"
 			birth_date="838.12.25"
 			attributes=
 			{
@@ -46829,7 +46836,7 @@ CK2txt
 		}
 		505608=
 		{
-			birth_name="Maˇroumfa"
+			birth_name="Ma√øroumfa"
 			birth_date="828.3.19"
 			attributes=
 			{
@@ -46924,7 +46931,7 @@ CK2txt
 		}
 		505612=
 		{
-			birth_name="Bad‰"
+			birth_name="Bad√§"
 			birth_date="834.3.24"
 			attributes=
 			{
@@ -48655,7 +48662,7 @@ CK2txt
 		}
 		505685=
 		{
-			birth_name="Bad‰"
+			birth_name="Bad√§"
 			birth_date="829.9.23"
 			attributes=
 			{
@@ -48726,7 +48733,7 @@ CK2txt
 		}
 		505688=
 		{
-			birth_name="Missi-IzÈ"
+			birth_name="Missi-Iz√©"
 			birth_date="831.12.22"
 			attributes=
 			{
@@ -48892,7 +48899,7 @@ CK2txt
 		}
 		505695=
 		{
-			birth_name="KasseÔ"
+			birth_name="Kasse√Ø"
 			birth_date="831.6.14"
 			attributes=
 			{
@@ -48940,7 +48947,7 @@ CK2txt
 		}
 		505697=
 		{
-			birth_name="ZeÔnab"
+			birth_name="Ze√Ønab"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -49011,7 +49018,7 @@ CK2txt
 		}
 		505700=
 		{
-			birth_name="Samsou-KeÔna"
+			birth_name="Samsou-Ke√Øna"
 			birth_date="839.5.6"
 			attributes=
 			{
@@ -49058,7 +49065,7 @@ CK2txt
 		}
 		505702=
 		{
-			birth_name="KasseÔ"
+			birth_name="Kasse√Ø"
 			birth_date="835.8.29"
 			attributes=
 			{
@@ -49081,7 +49088,7 @@ CK2txt
 		}
 		505703=
 		{
-			birth_name="Bad‰"
+			birth_name="Bad√§"
 			birth_date="841.2.16"
 			attributes=
 			{
@@ -49130,7 +49137,7 @@ CK2txt
 		}
 		505705=
 		{
-			birth_name="Maˇroumfa"
+			birth_name="Ma√øroumfa"
 			birth_date="841.5.14"
 			attributes=
 			{
@@ -49272,7 +49279,7 @@ CK2txt
 		}
 		505711=
 		{
-			birth_name="NamandjÈ"
+			birth_name="Namandj√©"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -49391,7 +49398,7 @@ CK2txt
 		}
 		505716=
 		{
-			birth_name="KoÔzÈ"
+			birth_name="Ko√Øz√©"
 			birth_date="831.2.3"
 			attributes=
 			{
@@ -49437,7 +49444,7 @@ CK2txt
 		}
 		505718=
 		{
-			birth_name="ZeÔnab"
+			birth_name="Ze√Ønab"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -50241,7 +50248,7 @@ CK2txt
 		}
 		505752=
 		{
-			birth_name="V‰inˆ"
+			birth_name="V√§in√∂"
 			birth_date="834.9.13"
 			attributes=
 			{
@@ -50265,7 +50272,7 @@ CK2txt
 		}
 		505753=
 		{
-			birth_name="K‰py"
+			birth_name="K√§py"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -51502,7 +51509,7 @@ CK2txt
 		}
 		505805=
 		{
-			birth_name="…douard"
+			birth_name="√âdouard"
 			birth_date="841.4.5"
 			attributes=
 			{
@@ -51596,7 +51603,7 @@ CK2txt
 		}
 		505809=
 		{
-			birth_name="SolËne"
+			birth_name="Sol√®ne"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -51713,7 +51720,7 @@ CK2txt
 		}
 		505814=
 		{
-			birth_name="JaufrÈ"
+			birth_name="Jaufr√©"
 			birth_date="842.9.21"
 			attributes=
 			{
@@ -51807,7 +51814,7 @@ CK2txt
 		}
 		505818=
 		{
-			birth_name="ﬁorgil"
+			birth_name="√ûorgil"
 			birth_date="831.10.29"
 			attributes=
 			{
@@ -51831,7 +51838,7 @@ CK2txt
 		}
 		505819=
 		{
-			birth_name="Arnbjˆrn"
+			birth_name="Arnbj√∂rn"
 			birth_date="835.5.13"
 			attributes=
 			{
@@ -52091,7 +52098,7 @@ CK2txt
 		}
 		505830=
 		{
-			birth_name="Gumundr"
+			birth_name="Gu√∞mundr"
 			birth_date="833.4.1"
 			attributes=
 			{
@@ -52395,7 +52402,7 @@ CK2txt
 		}
 		505843=
 		{
-			birth_name="Gurun"
+			birth_name="Gu√∞run"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -52964,7 +52971,7 @@ CK2txt
 		}
 		505867=
 		{
-			birth_name="SolomÙn"
+			birth_name="Solom√¥n"
 			birth_date="834.9.14"
 			attributes=
 			{
@@ -53059,7 +53066,7 @@ CK2txt
 		}
 		505871=
 		{
-			birth_name="MichaÍlkouda"
+			birth_name="Micha√™lkouda"
 			birth_date="835.4.5"
 			attributes=
 			{
@@ -53459,7 +53466,7 @@ CK2txt
 		}
 		505888=
 		{
-			birth_name="Sigurr"
+			birth_name="Sigur√∞r"
 			birth_date="840.6.28"
 			attributes=
 			{
@@ -53624,7 +53631,7 @@ CK2txt
 		}
 		505895=
 		{
-			birth_name="BernabÚ"
+			birth_name="Bernab√≤"
 			birth_date="842.6.19"
 			attributes=
 			{
@@ -53694,7 +53701,7 @@ CK2txt
 		}
 		505898=
 		{
-			birth_name="GÈraud"
+			birth_name="G√©raud"
 			birth_date="828.1.10"
 			attributes=
 			{
@@ -53789,7 +53796,7 @@ CK2txt
 		}
 		505902=
 		{
-			birth_name="ﬁorgil"
+			birth_name="√ûorgil"
 			birth_date="842.10.16"
 			attributes=
 			{
@@ -53836,7 +53843,7 @@ CK2txt
 		}
 		505904=
 		{
-			birth_name="Buli"
+			birth_name="Bu√∞li"
 			birth_date="834.11.18"
 			attributes=
 			{
@@ -53932,7 +53939,7 @@ CK2txt
 		}
 		505908=
 		{
-			birth_name="÷ysteinn"
+			birth_name="√ñysteinn"
 			birth_date="841.8.6"
 			attributes=
 			{
@@ -54027,7 +54034,7 @@ CK2txt
 		}
 		505912=
 		{
-			birth_name="ﬁorbjˆrn"
+			birth_name="√ûorbj√∂rn"
 			birth_date="829.7.3"
 			attributes=
 			{
@@ -54123,7 +54130,7 @@ CK2txt
 		}
 		505916=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="834.12.4"
 			attributes=
 			{
@@ -54216,7 +54223,7 @@ CK2txt
 		}
 		505920=
 		{
-			birth_name="Gumundr"
+			birth_name="Gu√∞mundr"
 			birth_date="833.10.13"
 			attributes=
 			{
@@ -54453,7 +54460,7 @@ CK2txt
 		}
 		505930=
 		{
-			birth_name="Froi"
+			birth_name="Fro√∞i"
 			birth_date="836.6.4"
 			attributes=
 			{
@@ -54477,7 +54484,7 @@ CK2txt
 		}
 		505931=
 		{
-			birth_name="Asbjˆrn"
+			birth_name="Asbj√∂rn"
 			birth_date="834.6.6"
 			attributes=
 			{
@@ -54573,7 +54580,7 @@ CK2txt
 		}
 		505935=
 		{
-			birth_name="Gumundr"
+			birth_name="Gu√∞mundr"
 			birth_date="835.5.2"
 			attributes=
 			{
@@ -54738,7 +54745,7 @@ CK2txt
 		}
 		505942=
 		{
-			birth_name="ﬁorbrandr"
+			birth_name="√ûorbrandr"
 			birth_date="830.8.31"
 			attributes=
 			{
@@ -54858,7 +54865,7 @@ CK2txt
 		}
 		505947=
 		{
-			birth_name="Froi"
+			birth_name="Fro√∞i"
 			birth_date="834.4.10"
 			attributes=
 			{
@@ -54954,7 +54961,7 @@ CK2txt
 		}
 		505951=
 		{
-			birth_name="SÊmundr"
+			birth_name="S√¶mundr"
 			birth_date="832.6.30"
 			attributes=
 			{
@@ -55025,7 +55032,7 @@ CK2txt
 		}
 		505954=
 		{
-			birth_name="Sigurr"
+			birth_name="Sigur√∞r"
 			birth_date="834.4.8"
 			attributes=
 			{
@@ -55049,7 +55056,7 @@ CK2txt
 		}
 		505955=
 		{
-			birth_name="Gyri"
+			birth_name="Gyri√∞"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -55215,7 +55222,7 @@ CK2txt
 		}
 		505962=
 		{
-			birth_name="Bjˆrg"
+			birth_name="Bj√∂rg"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -55288,7 +55295,7 @@ CK2txt
 		}
 		505965=
 		{
-			birth_name="÷rvar"
+			birth_name="√ñrvar"
 			birth_date="830.1.1"
 			attributes=
 			{
@@ -55359,7 +55366,7 @@ CK2txt
 		}
 		505968=
 		{
-			birth_name="Sˆrkver"
+			birth_name="S√∂rkver"
 			birth_date="839.9.17"
 			attributes=
 			{
@@ -55407,7 +55414,7 @@ CK2txt
 		}
 		505970=
 		{
-			birth_name="RobËrt"
+			birth_name="Rob√®rt"
 			birth_date="832.2.18"
 			attributes=
 			{
@@ -55570,7 +55577,7 @@ CK2txt
 		}
 		505977=
 		{
-			birth_name="Hrogar"
+			birth_name="Hro√∞gar"
 			birth_date="832.11.26"
 			attributes=
 			{
@@ -55618,7 +55625,7 @@ CK2txt
 		}
 		505979=
 		{
-			birth_name="ﬁorbrandr"
+			birth_name="√ûorbrandr"
 			birth_date="839.11.20"
 			attributes=
 			{
@@ -55641,7 +55648,7 @@ CK2txt
 		}
 		505980=
 		{
-			birth_name="Buli"
+			birth_name="Bu√∞li"
 			birth_date="840.11.29"
 			attributes=
 			{
@@ -55689,7 +55696,7 @@ CK2txt
 		}
 		505982=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="842.7.17"
 			attributes=
 			{
@@ -55809,7 +55816,7 @@ CK2txt
 		}
 		505987=
 		{
-			birth_name="÷ysteinn"
+			birth_name="√ñysteinn"
 			birth_date="837.1.27"
 			attributes=
 			{
@@ -55833,7 +55840,7 @@ CK2txt
 		}
 		505988=
 		{
-			birth_name="Starkar"
+			birth_name="Starka√∞r"
 			birth_date="838.8.7"
 			attributes=
 			{
@@ -55999,7 +56006,7 @@ CK2txt
 		}
 		505995=
 		{
-			birth_name="LÈon"
+			birth_name="L√©on"
 			birth_date="835.12.24"
 			attributes=
 			{
@@ -56046,7 +56053,7 @@ CK2txt
 		}
 		505997=
 		{
-			birth_name="÷ysteinn"
+			birth_name="√ñysteinn"
 			birth_date="829.2.17"
 			attributes=
 			{
@@ -56143,7 +56150,7 @@ CK2txt
 		}
 		506001=
 		{
-			birth_name="ﬁorbrandr"
+			birth_name="√ûorbrandr"
 			birth_date="833.3.19"
 			attributes=
 			{
@@ -56166,7 +56173,7 @@ CK2txt
 		}
 		506002=
 		{
-			birth_name="Glo"
+			birth_name="Glo√∞"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -56285,7 +56292,7 @@ CK2txt
 		}
 		506007=
 		{
-			birth_name="Rˆgnfri"
+			birth_name="R√∂gnfri√∞"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -56332,7 +56339,7 @@ CK2txt
 		}
 		506009=
 		{
-			birth_name="Gufri"
+			birth_name="Gu√∞fri√∞"
 			birth_date="829.5.31"
 			attributes=
 			{
@@ -56356,7 +56363,7 @@ CK2txt
 		}
 		506010=
 		{
-			birth_name="Gumundr"
+			birth_name="Gu√∞mundr"
 			birth_date="842.4.21"
 			attributes=
 			{
@@ -56380,7 +56387,7 @@ CK2txt
 		}
 		506011=
 		{
-			birth_name="≈ke"
+			birth_name="√Öke"
 			birth_date="830.6.13"
 			attributes=
 			{
@@ -56452,7 +56459,7 @@ CK2txt
 		}
 		506014=
 		{
-			birth_name="SÊmundr"
+			birth_name="S√¶mundr"
 			birth_date="841.11.19"
 			attributes=
 			{
@@ -56619,7 +56626,7 @@ CK2txt
 		}
 		506021=
 		{
-			birth_name="GeÙrgios"
+			birth_name="Ge√¥rgios"
 			birth_date="840.10.3"
 			attributes=
 			{
@@ -56643,7 +56650,7 @@ CK2txt
 		}
 		506022=
 		{
-			birth_name="AÒgelos"
+			birth_name="A√±gelos"
 			birth_date="828.10.23"
 			attributes=
 			{
@@ -56785,7 +56792,7 @@ CK2txt
 		}
 		506028=
 		{
-			birth_name="EphannÍ"
+			birth_name="Ephann√™"
 			birth_date="839.6.9"
 			attributes=
 			{
@@ -56832,7 +56839,7 @@ CK2txt
 		}
 		506030=
 		{
-			birth_name="MÍlÍnkouda"
+			birth_name="M√™l√™nkouda"
 			birth_date="831.1.14"
 			attributes=
 			{
@@ -56879,7 +56886,7 @@ CK2txt
 		}
 		506032=
 		{
-			birth_name="EphannÍ"
+			birth_name="Ephann√™"
 			birth_date="838.8.2"
 			attributes=
 			{
@@ -57067,7 +57074,7 @@ CK2txt
 		}
 		506040=
 		{
-			birth_name="—onne"
+			birth_name="√ëonne"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -57186,7 +57193,7 @@ CK2txt
 		}
 		506045=
 		{
-			birth_name="AÒgelos"
+			birth_name="A√±gelos"
 			birth_date="829.10.26"
 			attributes=
 			{
@@ -57281,7 +57288,7 @@ CK2txt
 		}
 		506049=
 		{
-			birth_name="BirÍl"
+			birth_name="Bir√™l"
 			birth_date="841.2.20"
 			attributes=
 			{
@@ -57352,7 +57359,7 @@ CK2txt
 		}
 		506052=
 		{
-			birth_name="IÙannou"
+			birth_name="I√¥annou"
 			birth_date="837.3.19"
 			attributes=
 			{
@@ -57469,7 +57476,7 @@ CK2txt
 		}
 		506057=
 		{
-			birth_name="Hrogar"
+			birth_name="Hro√∞gar"
 			birth_date="829.9.29"
 			attributes=
 			{
@@ -59407,7 +59414,7 @@ CK2txt
 		}
 		506139=
 		{
-			birth_name="AudoÔn"
+			birth_name="Audo√Øn"
 			birth_date="831.3.27"
 			attributes=
 			{
@@ -60046,7 +60053,7 @@ CK2txt
 		}
 		506166=
 		{
-			birth_name="Tom·s"
+			birth_name="Tom√°s"
 			birth_date="839.10.9"
 			attributes=
 			{
@@ -60307,7 +60314,7 @@ CK2txt
 		}
 		506177=
 		{
-			birth_name="Gumundr"
+			birth_name="Gu√∞mundr"
 			birth_date="828.12.30"
 			attributes=
 			{
@@ -60353,7 +60360,7 @@ CK2txt
 		}
 		506179=
 		{
-			birth_name="Gurˆr"
+			birth_name="Gu√∞r√∂√∞r"
 			birth_date="832.4.26"
 			attributes=
 			{
@@ -60376,7 +60383,7 @@ CK2txt
 		}
 		506180=
 		{
-			birth_name="Froi"
+			birth_name="Fro√∞i"
 			birth_date="840.1.23"
 			attributes=
 			{
@@ -60544,7 +60551,7 @@ CK2txt
 		}
 		506187=
 		{
-			birth_name="≈ke"
+			birth_name="√Öke"
 			birth_date="829.8.11"
 			attributes=
 			{
@@ -61111,7 +61118,7 @@ CK2txt
 		}
 		506211=
 		{
-			birth_name="äarvin"
+			birth_name="¬äarvin"
 			birth_date="837.4.16"
 			attributes=
 			{
@@ -61914,7 +61921,7 @@ CK2txt
 		}
 		506245=
 		{
-			birth_name="Hrogar"
+			birth_name="Hro√∞gar"
 			birth_date="839.10.27"
 			attributes=
 			{
@@ -61938,7 +61945,7 @@ CK2txt
 		}
 		506246=
 		{
-			birth_name="Starkar"
+			birth_name="Starka√∞r"
 			birth_date="838.7.15"
 			attributes=
 			{
@@ -62153,7 +62160,7 @@ CK2txt
 		}
 		506255=
 		{
-			birth_name="Starkar"
+			birth_name="Starka√∞r"
 			birth_date="842.4.6"
 			attributes=
 			{
@@ -62270,7 +62277,7 @@ CK2txt
 		}
 		506260=
 		{
-			birth_name="Gurˆr"
+			birth_name="Gu√∞r√∂√∞r"
 			birth_date="842.12.24"
 			attributes=
 			{
@@ -62294,7 +62301,7 @@ CK2txt
 		}
 		506261=
 		{
-			birth_name="ﬁorbrandr"
+			birth_name="√ûorbrandr"
 			birth_date="833.1.2"
 			attributes=
 			{
@@ -62718,7 +62725,7 @@ CK2txt
 		}
 		506279=
 		{
-			birth_name="Rˆgnhildr"
+			birth_name="R√∂gnhildr"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -62767,7 +62774,7 @@ CK2txt
 		}
 		506281=
 		{
-			birth_name="HÊsteinn"
+			birth_name="H√¶steinn"
 			birth_date="842.11.2"
 			attributes=
 			{
@@ -62814,7 +62821,7 @@ CK2txt
 		}
 		506283=
 		{
-			birth_name="SÊmundr"
+			birth_name="S√¶mundr"
 			birth_date="841.6.4"
 			attributes=
 			{
@@ -62956,7 +62963,7 @@ CK2txt
 		}
 		506289=
 		{
-			birth_name="Froi"
+			birth_name="Fro√∞i"
 			birth_date="832.5.18"
 			attributes=
 			{
@@ -63313,7 +63320,7 @@ CK2txt
 		}
 		506304=
 		{
-			birth_name="«iÁek"
+			birth_name="√ái√ßek"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -65958,7 +65965,7 @@ CK2txt
 		}
 		506416=
 		{
-			birth_name="FerÓd"
+			birth_name="Fer√Æd"
 			birth_date="841.2.9"
 			attributes=
 			{
@@ -66098,7 +66105,7 @@ CK2txt
 		}
 		506422=
 		{
-			birth_name="DÍrsim"
+			birth_name="D√™rsim"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -67851,7 +67858,7 @@ CK2txt
 		}
 		506496=
 		{
-			birth_name="äehrÓban"
+			birth_name="¬äehr√Æban"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -68040,7 +68047,7 @@ CK2txt
 		}
 		506504=
 		{
-			birth_name="äahryar"
+			birth_name="¬äahryar"
 			birth_date="829.12.10"
 			attributes=
 			{
@@ -69366,7 +69373,7 @@ CK2txt
 		}
 		506560=
 		{
-			birth_name="Buli"
+			birth_name="Bu√∞li"
 			birth_date="833.4.18"
 			attributes=
 			{
@@ -69696,7 +69703,7 @@ CK2txt
 		}
 		506574=
 		{
-			birth_name="Arnbjˆrn"
+			birth_name="Arnbj√∂rn"
 			birth_date="836.7.18"
 			attributes=
 			{
@@ -69719,7 +69726,7 @@ CK2txt
 		}
 		506575=
 		{
-			birth_name="Rˆgnfri"
+			birth_name="R√∂gnfri√∞"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -70120,7 +70127,7 @@ CK2txt
 		}
 		506592=
 		{
-			birth_name="…rrard"
+			birth_name="√ârrard"
 			birth_date="838.7.6"
 			attributes=
 			{
@@ -70144,7 +70151,7 @@ CK2txt
 		}
 		506593=
 		{
-			birth_name="PÈire-Raimond"
+			birth_name="P√©ire-Raimond"
 			birth_date="836.7.3"
 			attributes=
 			{
@@ -70452,7 +70459,7 @@ CK2txt
 		}
 		506606=
 		{
-			birth_name="Raimond-BerenguiÈ"
+			birth_name="Raimond-Berengui√©"
 			birth_date="836.4.9"
 			attributes=
 			{
@@ -70475,7 +70482,7 @@ CK2txt
 		}
 		506607=
 		{
-			birth_name="ClamenÁ"
+			birth_name="Clamen√ß"
 			birth_date="832.8.15"
 			attributes=
 			{
@@ -70522,7 +70529,7 @@ CK2txt
 		}
 		506609=
 		{
-			birth_name="BÚna"
+			birth_name="B√≤na"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -72665,7 +72672,7 @@ CK2txt
 		}
 		506700=
 		{
-			birth_name="AndrÈ"
+			birth_name="Andr√©"
 			birth_date="831.12.4"
 			attributes=
 			{
@@ -72688,7 +72695,7 @@ CK2txt
 		}
 		506701=
 		{
-			birth_name="D‡vi"
+			birth_name="D√†vi"
 			birth_date="833.6.5"
 			attributes=
 			{
@@ -72735,7 +72742,7 @@ CK2txt
 		}
 		506703=
 		{
-			birth_name="GilbËrt"
+			birth_name="Gilb√®rt"
 			birth_date="829.9.23"
 			attributes=
 			{
@@ -72807,7 +72814,7 @@ CK2txt
 		}
 		506706=
 		{
-			birth_name="GuilhËm"
+			birth_name="Guilh√®m"
 			birth_date="839.3.20"
 			attributes=
 			{
@@ -72877,7 +72884,7 @@ CK2txt
 		}
 		506709=
 		{
-			birth_name="RobËrt"
+			birth_name="Rob√®rt"
 			birth_date="830.7.27"
 			attributes=
 			{
@@ -74764,7 +74771,7 @@ CK2txt
 		}
 		506789=
 		{
-			birth_name="BlÊja"
+			birth_name="Bl√¶ja"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -75118,7 +75125,7 @@ CK2txt
 		}
 		506804=
 		{
-			birth_name="∆lfwine"
+			birth_name="√Ülfwine"
 			birth_date="841.6.4"
 			attributes=
 			{
@@ -75166,7 +75173,7 @@ CK2txt
 		}
 		506806=
 		{
-			birth_name="∆lfsige"
+			birth_name="√Ülfsige"
 			birth_date="839.11.28"
 			attributes=
 			{
@@ -75189,7 +75196,7 @@ CK2txt
 		}
 		506807=
 		{
-			birth_name="∆lfsige"
+			birth_name="√Ülfsige"
 			birth_date="842.5.24"
 			attributes=
 			{
@@ -75260,7 +75267,7 @@ CK2txt
 		}
 		506810=
 		{
-			birth_name="CuthrÊd"
+			birth_name="Cuthr√¶d"
 			birth_date="834.4.28"
 			attributes=
 			{
@@ -75283,7 +75290,7 @@ CK2txt
 		}
 		506811=
 		{
-			birth_name="ThorÊd"
+			birth_name="Thor√¶d"
 			birth_date="839.7.19"
 			attributes=
 			{
@@ -75331,7 +75338,7 @@ CK2txt
 		}
 		506813=
 		{
-			birth_name="MÊrleswegn"
+			birth_name="M√¶rleswegn"
 			birth_date="841.5.28"
 			attributes=
 			{
@@ -75520,7 +75527,7 @@ CK2txt
 		}
 		506821=
 		{
-			birth_name="∆thelbald"
+			birth_name="√Üthelbald"
 			birth_date="835.9.15"
 			attributes=
 			{
@@ -75566,7 +75573,7 @@ CK2txt
 		}
 		506823=
 		{
-			birth_name="WynnflÊd"
+			birth_name="Wynnfl√¶d"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -76635,7 +76642,7 @@ CK2txt
 		}
 		506868=
 		{
-			birth_name="∆thelwold"
+			birth_name="√Üthelwold"
 			birth_date="834.4.6"
 			attributes=
 			{
@@ -76728,7 +76735,7 @@ CK2txt
 		}
 		506872=
 		{
-			birth_name="∆lfweard"
+			birth_name="√Ülfweard"
 			birth_date="836.10.31"
 			attributes=
 			{
@@ -77887,7 +77894,7 @@ CK2txt
 		}
 		506921=
 		{
-			birth_name="∆lfstan"
+			birth_name="√Ülfstan"
 			birth_date="839.3.16"
 			attributes=
 			{
@@ -77911,7 +77918,7 @@ CK2txt
 		}
 		506922=
 		{
-			birth_name="UhtrÊd"
+			birth_name="Uhtr√¶d"
 			birth_date="836.3.27"
 			attributes=
 			{
@@ -78171,7 +78178,7 @@ CK2txt
 		}
 		506933=
 		{
-			birth_name="SÊbert"
+			birth_name="S√¶bert"
 			birth_date="840.8.5"
 			attributes=
 			{
@@ -78383,7 +78390,7 @@ CK2txt
 		}
 		506942=
 		{
-			birth_name="«ilen"
+			birth_name="√áilen"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -78431,7 +78438,7 @@ CK2txt
 		}
 		506944=
 		{
-			birth_name="Tˆrtogul"
+			birth_name="T√∂rtogul"
 			birth_date="834.4.22"
 			attributes=
 			{
@@ -81269,7 +81276,7 @@ CK2txt
 		}
 		507064=
 		{
-			birth_name="Guzm·n"
+			birth_name="Guzm√°n"
 			birth_date="832.10.9"
 			attributes=
 			{
@@ -81293,7 +81300,7 @@ CK2txt
 		}
 		507065=
 		{
-			birth_name="Juli·n"
+			birth_name="Juli√°n"
 			birth_date="838.10.15"
 			attributes=
 			{
@@ -81411,7 +81418,7 @@ CK2txt
 		}
 		507070=
 		{
-			birth_name="Vellant‚nkin‚n"
+			birth_name="Vellant√¢nkin√¢n"
 			birth_date="842.5.16"
 			attributes=
 			{
@@ -81435,7 +81442,7 @@ CK2txt
 		}
 		507071=
 		{
-			birth_name="Kont‚n"
+			birth_name="Kont√¢n"
 			birth_date="832.1.27"
 			attributes=
 			{
@@ -81482,7 +81489,7 @@ CK2txt
 		}
 		507073=
 		{
-			birth_name="Imp‚n‚yarpattan"
+			birth_name="Imp√¢n√¢yarpattan"
 			birth_date="835.6.9"
 			attributes=
 			{
@@ -81505,7 +81512,7 @@ CK2txt
 		}
 		507074=
 		{
-			birth_name="Vicay‚laya"
+			birth_name="Vicay√¢laya"
 			birth_date="835.4.7"
 			attributes=
 			{
@@ -81528,7 +81535,7 @@ CK2txt
 		}
 		507075=
 		{
-			birth_name="KuÒcaramalli"
+			birth_name="Ku√±caramalli"
 			female=yes
 			birth_date="851.1.1"
 			attributes=
@@ -81955,7 +81962,7 @@ CK2txt
 		}
 		507093=
 		{
-			birth_name="÷temis"
+			birth_name="√ñtemis"
 			birth_date="838.9.4"
 			attributes=
 			{
@@ -82097,7 +82104,7 @@ CK2txt
 		}
 		507099=
 		{
-			birth_name="Sart‰Á"
+			birth_name="Sart√§√ß"
 			birth_date="841.2.27"
 			attributes=
 			{
@@ -83671,7 +83678,7 @@ CK2txt
 		}
 		507166=
 		{
-			birth_name="Bˆru"
+			birth_name="B√∂ru"
 			birth_date="842.4.16"
 			attributes=
 			{
@@ -83695,7 +83702,7 @@ CK2txt
 		}
 		507167=
 		{
-			birth_name="Bˆru"
+			birth_name="B√∂ru"
 			birth_date="835.3.5"
 			attributes=
 			{
@@ -83833,7 +83840,7 @@ CK2txt
 		}
 		507173=
 		{
-			birth_name="BorÁ"
+			birth_name="Bor√ß"
 			birth_date="836.10.13"
 			attributes=
 			{
@@ -85218,7 +85225,7 @@ CK2txt
 		}
 		507232=
 		{
-			birth_name="MÊrleswegn"
+			birth_name="M√¶rleswegn"
 			birth_date="841.3.14"
 			attributes=
 			{
@@ -85360,7 +85367,7 @@ CK2txt
 		}
 		507238=
 		{
-			birth_name="RÊdwulf"
+			birth_name="R√¶dwulf"
 			birth_date="830.4.9"
 			attributes=
 			{
@@ -86301,7 +86308,7 @@ CK2txt
 		}
 		507278=
 		{
-			birth_name="NiccolÚ"
+			birth_name="Niccol√≤"
 			birth_date="831.1.9"
 			attributes=
 			{
@@ -86513,7 +86520,7 @@ CK2txt
 		}
 		507287=
 		{
-			birth_name="GuifrÈ"
+			birth_name="Guifr√©"
 			birth_date="830.5.7"
 			attributes=
 			{
@@ -86679,7 +86686,7 @@ CK2txt
 		}
 		507294=
 		{
-			birth_name="Guillem-Jord‡"
+			birth_name="Guillem-Jord√†"
 			birth_date="829.9.12"
 			attributes=
 			{
@@ -86937,7 +86944,7 @@ CK2txt
 		}
 		507305=
 		{
-			birth_name="AmÈdÈe"
+			birth_name="Am√©d√©e"
 			birth_date="838.9.14"
 			attributes=
 			{
@@ -86960,7 +86967,7 @@ CK2txt
 		}
 		507306=
 		{
-			birth_name="JaufrÈ"
+			birth_name="Jaufr√©"
 			birth_date="832.7.28"
 			attributes=
 			{
@@ -86984,7 +86991,7 @@ CK2txt
 		}
 		507307=
 		{
-			birth_name="…rrard"
+			birth_name="√ârrard"
 			birth_date="838.12.30"
 			attributes=
 			{
@@ -87692,7 +87699,7 @@ CK2txt
 		}
 		507337=
 		{
-			birth_name="SevenÁ"
+			birth_name="Seven√ß"
 			birth_date="842.12.2"
 			attributes=
 			{
@@ -88090,7 +88097,7 @@ CK2txt
 		}
 		507354=
 		{
-			birth_name="BiÁkili"
+			birth_name="Bi√ßkili"
 			birth_date="828.10.25"
 			attributes=
 			{
@@ -88159,7 +88166,7 @@ CK2txt
 		}
 		507357=
 		{
-			birth_name="«elgil"
+			birth_name="√áelgil"
 			birth_date="833.5.30"
 			attributes=
 			{
@@ -88958,7 +88965,7 @@ CK2txt
 		}
 		507391=
 		{
-			birth_name="AmÈdÈe"
+			birth_name="Am√©d√©e"
 			birth_date="831.12.31"
 			attributes=
 			{
@@ -89288,7 +89295,7 @@ CK2txt
 		}
 		507405=
 		{
-			birth_name="SimÛ"
+			birth_name="Sim√≥"
 			birth_date="839.8.27"
 			attributes=
 			{
@@ -89430,7 +89437,7 @@ CK2txt
 		}
 		507411=
 		{
-			birth_name="Jord‡"
+			birth_name="Jord√†"
 			birth_date="841.11.2"
 			attributes=
 			{
@@ -89549,7 +89556,7 @@ CK2txt
 		}
 		507416=
 		{
-			birth_name="ﬁorbrandr"
+			birth_name="√ûorbrandr"
 			birth_date="829.7.4"
 			attributes=
 			{
@@ -89572,7 +89579,7 @@ CK2txt
 		}
 		507417=
 		{
-			birth_name="CuthrÊd"
+			birth_name="Cuthr√¶d"
 			birth_date="831.6.11"
 			attributes=
 			{
@@ -89595,7 +89602,7 @@ CK2txt
 		}
 		507418=
 		{
-			birth_name="SigerÊd"
+			birth_name="Siger√¶d"
 			birth_date="836.2.3"
 			attributes=
 			{
@@ -90346,7 +90353,7 @@ CK2txt
 		}
 		507450=
 		{
-			birth_name="L·gon"
+			birth_name="L√°gon"
 			birth_date="837.3.17"
 			attributes=
 			{
@@ -90393,7 +90400,7 @@ CK2txt
 		}
 		507452=
 		{
-			birth_name="»oavv·"
+			birth_name="√àoavv√°"
 			birth_date="840.1.31"
 			attributes=
 			{
@@ -90416,7 +90423,7 @@ CK2txt
 		}
 		507453=
 		{
-			birth_name="S·rra"
+			birth_name="S√°rra"
 			birth_date="836.5.17"
 			attributes=
 			{
@@ -90440,7 +90447,7 @@ CK2txt
 		}
 		507454=
 		{
-			birth_name="D·vgon"
+			birth_name="D√°vgon"
 			birth_date="837.8.8"
 			attributes=
 			{
@@ -90487,7 +90494,7 @@ CK2txt
 		}
 		507456=
 		{
-			birth_name="D·vgon"
+			birth_name="D√°vgon"
 			birth_date="832.7.4"
 			attributes=
 			{
@@ -90957,7 +90964,7 @@ CK2txt
 		}
 		507476=
 		{
-			birth_name="BirÍl"
+			birth_name="Bir√™l"
 			birth_date="829.2.17"
 			attributes=
 			{
@@ -90981,7 +90988,7 @@ CK2txt
 		}
 		507477=
 		{
-			birth_name="TheodÙros"
+			birth_name="Theod√¥ros"
 			birth_date="837.11.4"
 			attributes=
 			{
@@ -91028,7 +91035,7 @@ CK2txt
 		}
 		507479=
 		{
-			birth_name="EphannÍ"
+			birth_name="Ephann√™"
 			birth_date="829.6.10"
 			attributes=
 			{
@@ -91051,7 +91058,7 @@ CK2txt
 		}
 		507480=
 		{
-			birth_name="MÍlÍnkouda"
+			birth_name="M√™l√™nkouda"
 			birth_date="834.5.19"
 			attributes=
 			{
@@ -91475,7 +91482,7 @@ CK2txt
 		}
 		507498=
 		{
-			birth_name="B·et·n"
+			birth_name="B√°et√°n"
 			birth_date="833.12.11"
 			attributes=
 			{
@@ -91592,7 +91599,7 @@ CK2txt
 		}
 		507503=
 		{
-			birth_name="Bu¸rgur"
+			birth_name="Bu√ºrgur"
 			birth_date="834.6.1"
 			attributes=
 			{
@@ -91732,7 +91739,7 @@ CK2txt
 		}
 		507509=
 		{
-			birth_name="BÊqÊtar"
+			birth_name="B√¶q√¶tar"
 			birth_date="832.5.6"
 			attributes=
 			{
@@ -93965,7 +93972,7 @@ CK2txt
 		}
 		507604=
 		{
-			birth_name="Missi-IzÈ"
+			birth_name="Missi-Iz√©"
 			birth_date="832.6.11"
 			attributes=
 			{
@@ -94106,7 +94113,7 @@ CK2txt
 		}
 		507610=
 		{
-			birth_name="Apar‚cita"
+			birth_name="Apar√¢cita"
 			birth_date="841.7.23"
 			attributes=
 			{
@@ -94153,7 +94160,7 @@ CK2txt
 		}
 		507612=
 		{
-			birth_name="TirupuvanavÓratevar"
+			birth_name="Tirupuvanav√Æratevar"
 			birth_date="842.2.7"
 			attributes=
 			{
@@ -94200,7 +94207,7 @@ CK2txt
 		}
 		507614=
 		{
-			birth_name="Brahmam‚r‚yar"
+			birth_name="Brahmam√¢r√¢yar"
 			birth_date="833.2.2"
 			attributes=
 			{
@@ -94223,7 +94230,7 @@ CK2txt
 		}
 		507615=
 		{
-			birth_name="Par‚nkucan"
+			birth_name="Par√¢nkucan"
 			birth_date="836.4.11"
 			attributes=
 			{
@@ -94247,7 +94254,7 @@ CK2txt
 		}
 		507616=
 		{
-			birth_name="Eccavar‚kan"
+			birth_name="Eccavar√¢kan"
 			birth_date="828.5.9"
 			attributes=
 			{
@@ -94270,7 +94277,7 @@ CK2txt
 		}
 		507617=
 		{
-			birth_name="Kont‚n"
+			birth_name="Kont√¢n"
 			birth_date="828.5.15"
 			attributes=
 			{
@@ -94293,7 +94300,7 @@ CK2txt
 		}
 		507618=
 		{
-			birth_name="Karaikkiyemarrayilaiy‚n"
+			birth_name="Karaikkiyemarrayilaiy√¢n"
 			birth_date="838.2.23"
 			attributes=
 			{
@@ -95699,7 +95706,7 @@ CK2txt
 		}
 		507678=
 		{
-			birth_name="’dˆn"
+			birth_name="√ïd√∂n"
 			birth_date="844.1.1"
 			attributes=
 			{
@@ -95722,7 +95729,7 @@ CK2txt
 		}
 		507679=
 		{
-			birth_name="Istv·n"
+			birth_name="Istv√°n"
 			birth_date="840.1.1"
 			attributes=
 			{
@@ -95791,7 +95798,7 @@ CK2txt
 		}
 		507682=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="838.1.1"
 			attributes=
 			{
@@ -95814,7 +95821,7 @@ CK2txt
 		}
 		507683=
 		{
-			birth_name="ﬁorbjˆrn"
+			birth_name="√ûorbj√∂rn"
 			birth_date="842.1.1"
 			attributes=
 			{
@@ -95837,7 +95844,7 @@ CK2txt
 		}
 		507684=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="838.1.1"
 			attributes=
 			{
@@ -95860,7 +95867,7 @@ CK2txt
 		}
 		507685=
 		{
-			birth_name="ﬁorbjˆrn"
+			birth_name="√ûorbj√∂rn"
 			birth_date="842.1.1"
 			attributes=
 			{
@@ -95883,7 +95890,7 @@ CK2txt
 		}
 		507686=
 		{
-			birth_name="ﬁorfinn"
+			birth_name="√ûorfinn"
 			birth_date="837.1.1"
 			attributes=
 			{
@@ -95906,7 +95913,7 @@ CK2txt
 		}
 		507687=
 		{
-			birth_name="ﬁorbjˆrn"
+			birth_name="√ûorbj√∂rn"
 			birth_date="842.1.1"
 			attributes=
 			{
@@ -95929,7 +95936,7 @@ CK2txt
 		}
 		507688=
 		{
-			birth_name="Hroulfr"
+			birth_name="Hro√∞ulfr"
 			birth_date="844.1.1"
 			attributes=
 			{
@@ -105428,7 +105435,7 @@ CK2txt
 		}
 		187000=
 		{
-			birth_name="MojmÌr"
+			birth_name="Mojm√≠r"
 			historical=yes
 			birth_date="740.1.1"
 			death_date="790.1.1"
@@ -105448,7 +105455,7 @@ CK2txt
 		}
 		187001=
 		{
-			birth_name="MojmÌr"
+			birth_name="Mojm√≠r"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="846.8.15"
@@ -105502,7 +105509,7 @@ CK2txt
 		}
 		187010=
 		{
-			birth_name="SvetimÌr"
+			birth_name="Svetim√≠r"
 			historical=yes
 			birth_date="817.1.1"
 			death_date="850.1.1"
@@ -106052,7 +106059,7 @@ CK2txt
 		}
 		159138=
 		{
-			birth_name="‹gyek"
+			birth_name="√úgyek"
 			historical=yes
 			birth_date="773.2.2"
 			death_date="845.1.2"
@@ -106096,7 +106103,7 @@ CK2txt
 		}
 		160143=
 		{
-			birth_name="K‰tyarikka"
+			birth_name="K√§tyarikka"
 			historical=yes
 			female=yes
 			birth_date="825.1.1"
@@ -106119,7 +106126,7 @@ CK2txt
 		}
 		160144=
 		{
-			birth_name="KÎlyamal"
+			birth_name="K√´lyamal"
 			historical=yes
 			female=yes
 			birth_date="826.1.1"
@@ -106249,7 +106256,7 @@ CK2txt
 		}
 		160167=
 		{
-			birth_name="K‰laÁ"
+			birth_name="K√§la√ß"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="846.1.1"
@@ -106269,7 +106276,7 @@ CK2txt
 		}
 		160168=
 		{
-			birth_name="TimÎreÁ"
+			birth_name="Tim√´re√ß"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="866.1.1"
@@ -106334,7 +106341,7 @@ CK2txt
 		}
 		160173=
 		{
-			birth_name="«eÁek"
+			birth_name="√áe√ßek"
 			historical=yes
 			female=yes
 			birth_date="824.1.1"
@@ -106714,7 +106721,7 @@ CK2txt
 		}
 		159744=
 		{
-			birth_name="HoÎl"
+			birth_name="Ho√´l"
 			historical=yes
 			birth_date="668.1.1"
 			death_date="697.1.1"
@@ -106780,7 +106787,7 @@ CK2txt
 		}
 		159748=
 		{
-			birth_name="HoÎl"
+			birth_name="Ho√´l"
 			historical=yes
 			birth_date="692.1.1"
 			death_date="715.1.1"
@@ -107035,7 +107042,7 @@ CK2txt
 		}
 		159643=
 		{
-			birth_name="GuÈrech"
+			birth_name="Gu√©rech"
 			historical=yes
 			birth_date="620.1.1"
 			death_date="692.1.1"
@@ -107140,7 +107147,7 @@ CK2txt
 		}
 		159647=
 		{
-			birth_name="ErispoÎ"
+			birth_name="Erispo√´"
 			historical=yes
 			birth_date="760.1.1"
 			death_date="812.1.1"
@@ -107270,7 +107277,7 @@ CK2txt
 		}
 		159756=
 		{
-			birth_name="GuÈrech"
+			birth_name="Gu√©rech"
 			historical=yes
 			birth_date="425.1.1"
 			death_date="494.1.1"
@@ -107359,7 +107366,7 @@ CK2txt
 		}
 		159662=
 		{
-			birth_name="HoÎl"
+			birth_name="Ho√´l"
 			historical=yes
 			birth_date="491.1.1"
 			death_date="545.1.1"
@@ -107408,7 +107415,7 @@ CK2txt
 		}
 		159663=
 		{
-			birth_name="HoÎl"
+			birth_name="Ho√´l"
 			historical=yes
 			birth_date="522.1.1"
 			death_date="547.1.1"
@@ -107455,7 +107462,7 @@ CK2txt
 		}
 		159665=
 		{
-			birth_name="HoÎl"
+			birth_name="Ho√´l"
 			historical=yes
 			birth_date="560.1.1"
 			death_date="612.1.1"
@@ -107627,7 +107634,7 @@ CK2txt
 		}
 		159653=
 		{
-			birth_name="GuÈrech"
+			birth_name="Gu√©rech"
 			historical=yes
 			birth_date="425.1.1"
 			death_date="478.1.1"
@@ -107860,7 +107867,7 @@ CK2txt
 		}
 		159691=
 		{
-			birth_name="ErispoÎ"
+			birth_name="Erispo√´"
 			historical=yes
 			birth_date="735.1.1"
 			death_date="824.1.1"
@@ -107901,7 +107908,7 @@ CK2txt
 		}
 		159693=
 		{
-			birth_name="ErispoÎ"
+			birth_name="Erispo√´"
 			historical=yes
 			birth_date="785.1.1"
 			death_date="834.1.1"
@@ -107922,7 +107929,7 @@ CK2txt
 		}
 		159694=
 		{
-			birth_name="NominoÎ"
+			birth_name="Nomino√´"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="851.1.1"
@@ -107944,7 +107951,7 @@ CK2txt
 		}
 		159965=
 		{
-			birth_name="ErispoÎ"
+			birth_name="Erispo√´"
 			historical=yes
 			birth_date="816.1.1"
 			death_date="857.1.1"
@@ -108382,7 +108389,7 @@ CK2txt
 		}
 		70017=
 		{
-			birth_name="OrdoÒo"
+			birth_name="Ordo√±o"
 			historical=yes
 			birth_date="830.1.1"
 			death_date="866.5.27"
@@ -108668,7 +108675,7 @@ CK2txt
 		}
 		73980=
 		{
-			birth_name="Juli·n"
+			birth_name="Juli√°n"
 			historical=yes
 			birth_date="672.1.1"
 			death_date="747.1.1"
@@ -108944,7 +108951,7 @@ CK2txt
 		}
 		159140=
 		{
-			birth_name="÷nedbelia"
+			birth_name="√ñnedbelia"
 			historical=yes
 			birth_date="745.1.2"
 			death_date="815.1.2"
@@ -111293,7 +111300,7 @@ CK2txt
 		}
 		90130=
 		{
-			birth_name="GÈraud"
+			birth_name="G√©raud"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="841.6.25"
@@ -112275,7 +112282,7 @@ CK2txt
 		}
 		168038=
 		{
-			birth_name="HervÈ"
+			birth_name="Herv√©"
 			historical=yes
 			birth_date="771.1.1"
 			death_date="821.1.1"
@@ -112317,7 +112324,7 @@ CK2txt
 		}
 		168040=
 		{
-			birth_name="HervÈ"
+			birth_name="Herv√©"
 			historical=yes
 			birth_date="820.1.1"
 			death_date="844.1.1"
@@ -112754,7 +112761,7 @@ CK2txt
 		}
 		168161=
 		{
-			birth_name="JÈrÙme"
+			birth_name="J√©r√¥me"
 			historical=yes
 			birth_date="730.1.1"
 			death_date="775.1.1"
@@ -120054,7 +120061,7 @@ CK2txt
 		}
 		131501=
 		{
-			birth_name="M·el Sechnaill"
+			birth_name="M√°el Sechnaill"
 			historical=yes
 			birth_date="825.1.2"
 			death_date="862.11.22"
@@ -120078,7 +120085,7 @@ CK2txt
 		}
 		6186=
 		{
-			birth_name="M·el Colcu"
+			birth_name="M√°el Colcu"
 			historical=yes
 			birth_date="780.1.2"
 			death_date="820.1.2"
@@ -120099,7 +120106,7 @@ CK2txt
 		}
 		6187=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="740.1.2"
 			death_date="821.1.2"
@@ -120141,7 +120148,7 @@ CK2txt
 		}
 		6189=
 		{
-			birth_name="”engus"
+			birth_name="√ìengus"
 			historical=yes
 			birth_date="647.1.2"
 			death_date="677.1.2"
@@ -120162,7 +120169,7 @@ CK2txt
 		}
 		6190=
 		{
-			birth_name="M·el Cobo"
+			birth_name="M√°el Cobo"
 			historical=yes
 			birth_date="603.1.2"
 			death_date="647.1.2"
@@ -120203,7 +120210,7 @@ CK2txt
 		}
 		6193=
 		{
-			birth_name="BÈcc Bairrche"
+			birth_name="B√©cc Bairrche"
 			historical=yes
 			birth_date="665.1.2"
 			death_date="718.1.2"
@@ -120224,7 +120231,7 @@ CK2txt
 		}
 		6194=
 		{
-			birth_name="¡ed RÛin"
+			birth_name="√Åed R√≥in"
 			historical=yes
 			birth_date="700.1.2"
 			death_date="735.1.2"
@@ -120329,7 +120336,7 @@ CK2txt
 		}
 		7243=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="695.1.1"
 			death_date="747.1.1"
@@ -120392,7 +120399,7 @@ CK2txt
 		}
 		7246=
 		{
-			birth_name="”engus"
+			birth_name="√ìengus"
 			historical=yes
 			birth_date="600.1.1"
 			death_date="650.1.1"
@@ -120434,7 +120441,7 @@ CK2txt
 		}
 		7248=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="530.1.1"
 			death_date="598.1.1"
@@ -120606,7 +120613,7 @@ CK2txt
 		}
 		7257=
 		{
-			birth_name="EÛg·n"
+			birth_name="E√≥g√°n"
 			historical=yes
 			birth_date="430.1.1"
 			death_date="465.1.1"
@@ -120672,7 +120679,7 @@ CK2txt
 		}
 		7260=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="545.1.1"
 			death_date="587.1.1"
@@ -120782,7 +120789,7 @@ CK2txt
 		}
 		7265=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="546.1.1"
 			death_date="612.1.1"
@@ -120826,7 +120833,7 @@ CK2txt
 		}
 		7267=
 		{
-			birth_name="M·el Fithrich"
+			birth_name="M√°el Fithrich"
 			historical=yes
 			birth_date="590.1.1"
 			death_date="630.1.1"
@@ -120870,7 +120877,7 @@ CK2txt
 		}
 		7269=
 		{
-			birth_name="M·el D˙in"
+			birth_name="M√°el D√∫in"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="681.1.1"
@@ -121002,7 +121009,7 @@ CK2txt
 		}
 		7275=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="760.1.1"
 			death_date="819.1.1"
@@ -121024,7 +121031,7 @@ CK2txt
 		}
 		7276=
 		{
-			birth_name="M·el Ruanaid"
+			birth_name="M√°el Ruanaid"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="843.1.1"
@@ -121069,7 +121076,7 @@ CK2txt
 		}
 		83160=
 		{
-			birth_name="…nna"
+			birth_name="√ânna"
 			historical=yes
 			birth_date="410.1.1"
 			death_date="450.7.1"
@@ -121112,7 +121119,7 @@ CK2txt
 		}
 		83162=
 		{
-			birth_name="Nath-Õ"
+			birth_name="Nath-√ç"
 			historical=yes
 			birth_date="451.1.1"
 			death_date="512.7.1"
@@ -121154,7 +121161,7 @@ CK2txt
 		}
 		83164=
 		{
-			birth_name="EÛgan"
+			birth_name="E√≥gan"
 			historical=yes
 			birth_date="474.1.1"
 			death_date="540.7.1"
@@ -121176,7 +121183,7 @@ CK2txt
 		}
 		83165=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="521.1.1"
 			death_date="568.7.1"
@@ -121197,7 +121204,7 @@ CK2txt
 		}
 		83166=
 		{
-			birth_name="RÛn·n"
+			birth_name="R√≥n√°n"
 			historical=yes
 			birth_date="549.1.1"
 			death_date="624.7.1"
@@ -121219,7 +121226,7 @@ CK2txt
 		}
 		83167=
 		{
-			birth_name="Crundm·el"
+			birth_name="Crundm√°el"
 			historical=yes
 			birth_date="601.1.1"
 			death_date="656.7.1"
@@ -121283,7 +121290,7 @@ CK2txt
 		}
 		83170=
 		{
-			birth_name="Colch˙"
+			birth_name="Colch√∫"
 			historical=yes
 			birth_date="669.1.1"
 			death_date="722.7.1"
@@ -121304,7 +121311,7 @@ CK2txt
 		}
 		83171=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="702.1.1"
 			death_date="738.7.1"
@@ -121347,7 +121354,7 @@ CK2txt
 		}
 		83173=
 		{
-			birth_name="¡engus"
+			birth_name="√Åengus"
 			historical=yes
 			birth_date="459.1.1"
 			death_date="522.7.1"
@@ -121456,7 +121463,7 @@ CK2txt
 		}
 		83178=
 		{
-			birth_name="SÌl·n"
+			birth_name="S√≠l√°n"
 			historical=yes
 			birth_date="510.1.1"
 			death_date="573.7.1"
@@ -121477,7 +121484,7 @@ CK2txt
 		}
 		83179=
 		{
-			birth_name="M·el-Odar"
+			birth_name="M√°el-Odar"
 			historical=yes
 			birth_date="549.1.1"
 			death_date="611.7.1"
@@ -121498,7 +121505,7 @@ CK2txt
 		}
 		83180=
 		{
-			birth_name="F·el·n"
+			birth_name="F√°el√°n"
 			historical=yes
 			birth_date="530.1.1"
 			death_date="589.7.1"
@@ -121520,7 +121527,7 @@ CK2txt
 		}
 		83181=
 		{
-			birth_name="F·elch˙"
+			birth_name="F√°elch√∫"
 			historical=yes
 			birth_date="556.1.1"
 			death_date="609.7.1"
@@ -121541,7 +121548,7 @@ CK2txt
 		}
 		83182=
 		{
-			birth_name="…lothach"
+			birth_name="√âlothach"
 			historical=yes
 			birth_date="590.1.1"
 			death_date="647.7.1"
@@ -121563,7 +121570,7 @@ CK2txt
 		}
 		83183=
 		{
-			birth_name="Onch˙"
+			birth_name="Onch√∫"
 			historical=yes
 			birth_date="559.1.1"
 			death_date="627.7.1"
@@ -121584,7 +121591,7 @@ CK2txt
 		}
 		83184=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="611.1.1"
 			death_date="681.7.1"
@@ -121712,7 +121719,7 @@ CK2txt
 		}
 		83394=
 		{
-			birth_name="FÌnsnechta"
+			birth_name="F√≠nsnechta"
 			historical=yes
 			birth_date="759.1.1"
 			death_date="848.7.1"
@@ -121907,7 +121914,7 @@ CK2txt
 		}
 		83403=
 		{
-			birth_name="FlaithrÌ"
+			birth_name="Flaithr√≠"
 			historical=yes
 			birth_date="714.1.1"
 			death_date="779.7.1"
@@ -122061,7 +122068,7 @@ CK2txt
 		}
 		83410=
 		{
-			birth_name="Dub-DÌbeirgg"
+			birth_name="Dub-D√≠beirgg"
 			historical=yes
 			birth_date="704.1.1"
 			death_date="787.7.1"
@@ -122125,7 +122132,7 @@ CK2txt
 		}
 		83413=
 		{
-			birth_name="Cin·ed"
+			birth_name="Cin√°ed"
 			historical=yes
 			birth_date="746.1.1"
 			death_date="792.7.1"
@@ -122147,7 +122154,7 @@ CK2txt
 		}
 		83414=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="754.1.1"
 			death_date="801.7.1"
@@ -122168,7 +122175,7 @@ CK2txt
 		}
 		83415=
 		{
-			birth_name="M·el-Cothaid"
+			birth_name="M√°el-Cothaid"
 			historical=yes
 			birth_date="757.1.1"
 			death_date="823.7.1"
@@ -122255,7 +122262,7 @@ CK2txt
 		}
 		83421=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="690.1.1"
 			death_date="742.7.1"
@@ -122509,7 +122516,7 @@ CK2txt
 		}
 		83433=
 		{
-			birth_name="BriÛn"
+			birth_name="Bri√≥n"
 			historical=yes
 			birth_date="390.1.1"
 			death_date="440.7.1"
@@ -122572,7 +122579,7 @@ CK2txt
 		}
 		83436=
 		{
-			birth_name="DauÌ Tenga Uma"
+			birth_name="Dau√≠ Tenga Uma"
 			historical=yes
 			birth_date="430.1.1"
 			death_date="502.7.1"
@@ -122593,7 +122600,7 @@ CK2txt
 		}
 		83437=
 		{
-			birth_name="EÛgan"
+			birth_name="E√≥gan"
 			historical=yes
 			birth_date="470.1.1"
 			death_date="509.7.1"
@@ -122677,7 +122684,7 @@ CK2txt
 		}
 		83441=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="539.1.1"
 			death_date="577.7.1"
@@ -122740,7 +122747,7 @@ CK2txt
 		}
 		83445=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="498.1.1"
 			death_date="574.7.1"
@@ -122761,7 +122768,7 @@ CK2txt
 		}
 		83446=
 		{
-			birth_name="Colg˙"
+			birth_name="Colg√∫"
 			historical=yes
 			birth_date="545.1.1"
 			death_date="635.7.1"
@@ -122782,7 +122789,7 @@ CK2txt
 		}
 		83447=
 		{
-			birth_name="Cenn-F·elad"
+			birth_name="Cenn-F√°elad"
 			historical=yes
 			birth_date="621.1.1"
 			death_date="682.7.1"
@@ -122846,7 +122853,7 @@ CK2txt
 		}
 		83450=
 		{
-			birth_name="FÌangalach"
+			birth_name="F√≠angalach"
 			historical=yes
 			birth_date="710.1.1"
 			death_date="750.7.1"
@@ -122888,7 +122895,7 @@ CK2txt
 		}
 		83452=
 		{
-			birth_name="M·enach"
+			birth_name="M√°enach"
 			historical=yes
 			birth_date="775.1.1"
 			death_date="843.7.1"
@@ -122930,7 +122937,7 @@ CK2txt
 		}
 		83524=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="555.1.1"
 			death_date="599.7.1"
@@ -122951,7 +122958,7 @@ CK2txt
 		}
 		83525=
 		{
-			birth_name="Scandl·n"
+			birth_name="Scandl√°n"
 			historical=yes
 			birth_date="587.1.1"
 			death_date="625.7.1"
@@ -122993,7 +123000,7 @@ CK2txt
 		}
 		83527=
 		{
-			birth_name="B·ethine"
+			birth_name="B√°ethine"
 			historical=yes
 			birth_date="628.1.1"
 			death_date="676.7.1"
@@ -123014,7 +123021,7 @@ CK2txt
 		}
 		83528=
 		{
-			birth_name="M·enach"
+			birth_name="M√°enach"
 			historical=yes
 			birth_date="647.1.1"
 			death_date="676.7.1"
@@ -123035,7 +123042,7 @@ CK2txt
 		}
 		83529=
 		{
-			birth_name="D˙nchad"
+			birth_name="D√∫nchad"
 			historical=yes
 			birth_date="649.1.1"
 			death_date="679.7.1"
@@ -123098,7 +123105,7 @@ CK2txt
 		}
 		83532=
 		{
-			birth_name="Sellach·n"
+			birth_name="Sellach√°n"
 			historical=yes
 			birth_date="751.1.1"
 			death_date="825.7.1"
@@ -123140,7 +123147,7 @@ CK2txt
 		}
 		83596=
 		{
-			birth_name="M·el-Bressail"
+			birth_name="M√°el-Bressail"
 			historical=yes
 			birth_date="734.1.1"
 			death_date="799.1.1"
@@ -123182,7 +123189,7 @@ CK2txt
 		}
 		83598=
 		{
-			birth_name="”engus"
+			birth_name="√ìengus"
 			historical=yes
 			birth_date="781.1.1"
 			death_date="853.1.1"
@@ -123271,7 +123278,7 @@ CK2txt
 		}
 		165014=
 		{
-			birth_name="Cin·ed"
+			birth_name="Cin√°ed"
 			historical=yes
 			birth_date="833.1.1"
 			death_date="851.1.1"
@@ -123315,7 +123322,7 @@ CK2txt
 		}
 		165019=
 		{
-			birth_name="M·el D˙in"
+			birth_name="M√°el D√∫in"
 			historical=yes
 			birth_date="849.1.1"
 			death_date="867.1.1"
@@ -123379,7 +123386,7 @@ CK2txt
 		}
 		166002=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="550.1.1"
 			death_date="603.1.1"
@@ -123401,7 +123408,7 @@ CK2txt
 		}
 		166003=
 		{
-			birth_name="CrundmaÌl"
+			birth_name="Crundma√≠l"
 			historical=yes
 			birth_date="576.1.1"
 			death_date="635.1.1"
@@ -123423,7 +123430,7 @@ CK2txt
 		}
 		166004=
 		{
-			birth_name="Scannlan MÛr"
+			birth_name="Scannlan M√≥r"
 			historical=yes
 			birth_date="589.1.1"
 			death_date="644.1.1"
@@ -123445,7 +123452,7 @@ CK2txt
 		}
 		166005=
 		{
-			birth_name="F·el·n"
+			birth_name="F√°el√°n"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="660.1.1"
@@ -123467,7 +123474,7 @@ CK2txt
 		}
 		166006=
 		{
-			birth_name="Tuaim Sn·mha"
+			birth_name="Tuaim Sn√°mha"
 			historical=yes
 			birth_date="615.1.1"
 			death_date="678.1.1"
@@ -123510,7 +123517,7 @@ CK2txt
 		}
 		166008=
 		{
-			birth_name="M·el ”dra"
+			birth_name="M√°el √ìdra"
 			historical=yes
 			birth_date="608.1.1"
 			death_date="647.1.1"
@@ -123552,7 +123559,7 @@ CK2txt
 		}
 		166010=
 		{
-			birth_name="F·elchar"
+			birth_name="F√°elchar"
 			historical=yes
 			birth_date="650.1.1"
 			death_date="693.1.1"
@@ -123574,7 +123581,7 @@ CK2txt
 		}
 		166011=
 		{
-			birth_name="C˙ Cherca"
+			birth_name="C√∫ Cherca"
 			historical=yes
 			birth_date="640.1.1"
 			death_date="712.1.1"
@@ -123706,7 +123713,7 @@ CK2txt
 		}
 		166017=
 		{
-			birth_name="TÛim Sn·ma"
+			birth_name="T√≥im Sn√°ma"
 			historical=yes
 			birth_date="715.1.1"
 			death_date="770.1.1"
@@ -123728,7 +123735,7 @@ CK2txt
 		}
 		166018=
 		{
-			birth_name="D˙ngal"
+			birth_name="D√∫ngal"
 			historical=yes
 			birth_date="730.1.1"
 			death_date="772.1.1"
@@ -123771,7 +123778,7 @@ CK2txt
 		}
 		166020=
 		{
-			birth_name="F·el·n"
+			birth_name="F√°el√°n"
 			historical=yes
 			birth_date="635.1.1"
 			death_date="786.1.1"
@@ -123792,7 +123799,7 @@ CK2txt
 		}
 		166021=
 		{
-			birth_name="M·el D˙in"
+			birth_name="M√°el D√∫in"
 			historical=yes
 			birth_date="760.1.1"
 			death_date="797.1.1"
@@ -123836,7 +123843,7 @@ CK2txt
 		}
 		166023=
 		{
-			birth_name="D˙ngal"
+			birth_name="D√∫ngal"
 			historical=yes
 			birth_date="785.1.1"
 			death_date="842.1.1"
@@ -124287,7 +124294,7 @@ CK2txt
 		}
 		83600=
 		{
-			birth_name="EÛgan Taidlech"
+			birth_name="E√≥gan Taidlech"
 			historical=yes
 			birth_date="140.1.1"
 			death_date="200.1.1"
@@ -124307,7 +124314,7 @@ CK2txt
 		}
 		83601=
 		{
-			birth_name="Ailill ”lomm"
+			birth_name="Ailill √ìlomm"
 			historical=yes
 			birth_date="175.1.1"
 			death_date="240.1.1"
@@ -124352,7 +124359,7 @@ CK2txt
 		}
 		83603=
 		{
-			birth_name="EÛgan MÛr"
+			birth_name="E√≥gan M√≥r"
 			historical=yes
 			birth_date="197.1.1"
 			death_date="250.1.1"
@@ -124484,7 +124491,7 @@ CK2txt
 		}
 		83609=
 		{
-			birth_name="”engus"
+			birth_name="√ìengus"
 			historical=yes
 			birth_date="445.1.1"
 			death_date="492.1.1"
@@ -124593,7 +124600,7 @@ CK2txt
 		}
 		83614=
 		{
-			birth_name="EÛgan"
+			birth_name="E√≥gan"
 			historical=yes
 			birth_date="492.1.1"
 			death_date="545.1.1"
@@ -124679,7 +124686,7 @@ CK2txt
 		}
 		83618=
 		{
-			birth_name="¡ed Dub"
+			birth_name="√Åed Dub"
 			historical=yes
 			birth_date="530.1.1"
 			death_date="600.1.1"
@@ -124701,7 +124708,7 @@ CK2txt
 		}
 		83619=
 		{
-			birth_name="FÌngen"
+			birth_name="F√≠ngen"
 			historical=yes
 			birth_date="580.1.1"
 			death_date="619.1.1"
@@ -124723,7 +124730,7 @@ CK2txt
 		}
 		83620=
 		{
-			birth_name="FaÌlbe Fland"
+			birth_name="Fa√≠lbe Fland"
 			historical=yes
 			birth_date="582.1.1"
 			death_date="639.1.1"
@@ -124745,7 +124752,7 @@ CK2txt
 		}
 		83621=
 		{
-			birth_name="M·enach"
+			birth_name="M√°enach"
 			historical=yes
 			birth_date="601.1.1"
 			death_date="662.1.1"
@@ -124852,7 +124859,7 @@ CK2txt
 		}
 		83626=
 		{
-			birth_name="Tn˙thgal"
+			birth_name="Tn√∫thgal"
 			historical=yes
 			birth_date="640.1.1"
 			death_date="701.1.1"
@@ -124874,7 +124881,7 @@ CK2txt
 		}
 		83627=
 		{
-			birth_name="Crundm·el"
+			birth_name="Crundm√°el"
 			historical=yes
 			birth_date="643.1.1"
 			death_date="703.1.1"
@@ -124895,7 +124902,7 @@ CK2txt
 		}
 		83628=
 		{
-			birth_name="Colg˙"
+			birth_name="Colg√∫"
 			historical=yes
 			birth_date="617.1.1"
 			death_date="678.1.1"
@@ -124938,7 +124945,7 @@ CK2txt
 		}
 		83630=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="645.1.1"
 			death_date="700.1.1"
@@ -124959,7 +124966,7 @@ CK2txt
 		}
 		83631=
 		{
-			birth_name="Dub-d·-CrÌch"
+			birth_name="Dub-d√°-Cr√≠ch"
 			historical=yes
 			birth_date="675.1.1"
 			death_date="752.1.1"
@@ -125068,7 +125075,7 @@ CK2txt
 		}
 		83648=
 		{
-			birth_name="Nad-FraÌch"
+			birth_name="Nad-Fra√≠ch"
 			historical=yes
 			birth_date="647.1.1"
 			death_date="703.1.1"
@@ -125089,7 +125096,7 @@ CK2txt
 		}
 		83649=
 		{
-			birth_name="F·elgus"
+			birth_name="F√°elgus"
 			historical=yes
 			birth_date="687.1.1"
 			death_date="745.1.1"
@@ -125110,7 +125117,7 @@ CK2txt
 		}
 		83650=
 		{
-			birth_name="SnÈdgus"
+			birth_name="Sn√©dgus"
 			historical=yes
 			birth_date="689.1.1"
 			death_date="747.1.1"
@@ -125131,7 +125138,7 @@ CK2txt
 		}
 		83651=
 		{
-			birth_name="D˙ngalach"
+			birth_name="D√∫ngalach"
 			historical=yes
 			birth_date="719.1.1"
 			death_date="778.1.1"
@@ -125173,7 +125180,7 @@ CK2txt
 		}
 		83653=
 		{
-			birth_name="SnÈdgus"
+			birth_name="Sn√©dgus"
 			historical=yes
 			birth_date="744.1.1"
 			death_date="801.1.1"
@@ -125194,7 +125201,7 @@ CK2txt
 		}
 		83654=
 		{
-			birth_name="Crundm·el"
+			birth_name="Crundm√°el"
 			historical=yes
 			birth_date="746.1.1"
 			death_date="813.1.1"
@@ -125215,7 +125222,7 @@ CK2txt
 		}
 		83655=
 		{
-			birth_name="Tn˙thgal"
+			birth_name="Tn√∫thgal"
 			historical=yes
 			birth_date="772.1.1"
 			death_date="820.1.1"
@@ -125258,7 +125265,7 @@ CK2txt
 		}
 		83657=
 		{
-			birth_name="¡ilgen·n"
+			birth_name="√Åilgen√°n"
 			historical=yes
 			birth_date="822.1.1"
 			death_date="853.1.1"
@@ -125280,7 +125287,7 @@ CK2txt
 		}
 		83658=
 		{
-			birth_name="M·el-Gualae"
+			birth_name="M√°el-Gualae"
 			historical=yes
 			birth_date="824.1.1"
 			death_date="859.1.1"
@@ -125365,7 +125372,7 @@ CK2txt
 		}
 		83677=
 		{
-			birth_name="Furudr·n"
+			birth_name="Furudr√°n"
 			historical=yes
 			birth_date="530.1.1"
 			death_date="600.1.1"
@@ -125407,7 +125414,7 @@ CK2txt
 		}
 		83679=
 		{
-			birth_name="D˙nchad"
+			birth_name="D√∫nchad"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="670.1.1"
@@ -125428,7 +125435,7 @@ CK2txt
 		}
 		83680=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="630.1.1"
 			death_date="700.1.1"
@@ -125662,7 +125669,7 @@ CK2txt
 		}
 		83696=
 		{
-			birth_name="LÛegaire"
+			birth_name="L√≥egaire"
 			historical=yes
 			birth_date="502.1.1"
 			death_date="557.1.1"
@@ -125684,7 +125691,7 @@ CK2txt
 		}
 		83697=
 		{
-			birth_name="¡ed Ualgarb"
+			birth_name="√Åed Ualgarb"
 			historical=yes
 			birth_date="504.1.1"
 			death_date="560.1.1"
@@ -125750,7 +125757,7 @@ CK2txt
 		}
 		83700=
 		{
-			birth_name="Cenn-F·elad"
+			birth_name="Cenn-F√°elad"
 			historical=yes
 			birth_date="558.1.1"
 			death_date="624.1.1"
@@ -125794,7 +125801,7 @@ CK2txt
 		}
 		83702=
 		{
-			birth_name="BÈcc"
+			birth_name="B√©cc"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="661.1.1"
@@ -125816,7 +125823,7 @@ CK2txt
 		}
 		83703=
 		{
-			birth_name="Fer-d·-Lethe"
+			birth_name="Fer-d√°-Lethe"
 			historical=yes
 			birth_date="689.1.1"
 			death_date="744.1.1"
@@ -125902,7 +125909,7 @@ CK2txt
 		}
 		83713=
 		{
-			birth_name="¡ed Osraige"
+			birth_name="√Åed Osraige"
 			historical=yes
 			birth_date="532.1.1"
 			death_date="597.1.1"
@@ -125924,7 +125931,7 @@ CK2txt
 		}
 		83714=
 		{
-			birth_name="Cin·ed"
+			birth_name="Cin√°ed"
 			historical=yes
 			birth_date="534.1.1"
 			death_date="597.1.1"
@@ -125945,7 +125952,7 @@ CK2txt
 		}
 		83715=
 		{
-			birth_name="Coirpre Cl·renech"
+			birth_name="Coirpre Cl√°renech"
 			historical=yes
 			birth_date="554.1.1"
 			death_date="612.1.1"
@@ -125966,7 +125973,7 @@ CK2txt
 		}
 		83716=
 		{
-			birth_name="D˙ngal"
+			birth_name="D√∫ngal"
 			historical=yes
 			birth_date="574.1.1"
 			death_date="643.1.1"
@@ -125987,7 +125994,7 @@ CK2txt
 		}
 		83717=
 		{
-			birth_name="Dond-Sl·ine Brecc"
+			birth_name="Dond-Sl√°ine Brecc"
 			historical=yes
 			birth_date="620.1.1"
 			death_date="676.1.1"
@@ -126009,7 +126016,7 @@ CK2txt
 		}
 		83718=
 		{
-			birth_name="…ladach"
+			birth_name="√âladach"
 			historical=yes
 			birth_date="664.1.1"
 			death_date="732.1.1"
@@ -126074,7 +126081,7 @@ CK2txt
 		}
 		83722=
 		{
-			birth_name="D˙nlaing"
+			birth_name="D√∫nlaing"
 			historical=yes
 			birth_date="750.1.1"
 			death_date="810.1.1"
@@ -126095,7 +126102,7 @@ CK2txt
 		}
 		83723=
 		{
-			birth_name="…ladach"
+			birth_name="√âladach"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="828.1.1"
@@ -126138,7 +126145,7 @@ CK2txt
 		}
 		83725=
 		{
-			birth_name="Cl·renech"
+			birth_name="Cl√°renech"
 			historical=yes
 			birth_date="601.1.1"
 			death_date="663.1.1"
@@ -126180,7 +126187,7 @@ CK2txt
 		}
 		83727=
 		{
-			birth_name="…ladach"
+			birth_name="√âladach"
 			historical=yes
 			birth_date="692.1.1"
 			death_date="754.1.1"
@@ -126201,7 +126208,7 @@ CK2txt
 		}
 		83728=
 		{
-			birth_name="D˙nlaing"
+			birth_name="D√∫nlaing"
 			historical=yes
 			birth_date="723.1.1"
 			death_date="788.1.1"
@@ -126222,7 +126229,7 @@ CK2txt
 		}
 		83729=
 		{
-			birth_name="¡nilte"
+			birth_name="√Ånilte"
 			historical=yes
 			birth_date="780.1.1"
 			death_date="861.1.1"
@@ -126309,7 +126316,7 @@ CK2txt
 		}
 		83737=
 		{
-			birth_name="…ndae"
+			birth_name="√ândae"
 			historical=yes
 			birth_date="480.1.1"
 			death_date="551.1.1"
@@ -126353,7 +126360,7 @@ CK2txt
 		}
 		83739=
 		{
-			birth_name="Garb·n"
+			birth_name="Garb√°n"
 			historical=yes
 			birth_date="528.1.1"
 			death_date="594.1.1"
@@ -126375,7 +126382,7 @@ CK2txt
 		}
 		83740=
 		{
-			birth_name="C˙·n"
+			birth_name="C√∫√°n"
 			historical=yes
 			birth_date="572.1.1"
 			death_date="641.1.1"
@@ -126397,7 +126404,7 @@ CK2txt
 		}
 		83741=
 		{
-			birth_name="M·el-Umai"
+			birth_name="M√°el-Umai"
 			historical=yes
 			birth_date="609.1.1"
 			death_date="673.1.1"
@@ -126439,7 +126446,7 @@ CK2txt
 		}
 		83743=
 		{
-			birth_name="EterscÈl"
+			birth_name="Etersc√©l"
 			historical=yes
 			birth_date="647.1.1"
 			death_date="721.1.1"
@@ -126504,7 +126511,7 @@ CK2txt
 		}
 		83746=
 		{
-			birth_name="”lchobar"
+			birth_name="√ìlchobar"
 			historical=yes
 			birth_date="730.1.1"
 			death_date="805.1.1"
@@ -126526,7 +126533,7 @@ CK2txt
 		}
 		83747=
 		{
-			birth_name="EterscÈl"
+			birth_name="Etersc√©l"
 			historical=yes
 			birth_date="650.1.1"
 			death_date="712.1.1"
@@ -126568,7 +126575,7 @@ CK2txt
 		}
 		83749=
 		{
-			birth_name="Cathussach·n"
+			birth_name="Cathussach√°n"
 			historical=yes
 			birth_date="721.1.1"
 			death_date="803.1.1"
@@ -126653,7 +126660,7 @@ CK2txt
 		}
 		83758=
 		{
-			birth_name="Crundm·el"
+			birth_name="Crundm√°el"
 			historical=yes
 			birth_date="630.1.1"
 			death_date="720.1.1"
@@ -126780,7 +126787,7 @@ CK2txt
 		}
 		83766=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="567.1.1"
 			death_date="607.1.1"
@@ -126845,7 +126852,7 @@ CK2txt
 		}
 		83769=
 		{
-			birth_name="Cathal C˙-Cen-M·thair"
+			birth_name="Cathal C√∫-Cen-M√°thair"
 			historical=yes
 			birth_date="628.7.1"
 			death_date="679.1.1"
@@ -126931,7 +126938,7 @@ CK2txt
 		}
 		83773=
 		{
-			birth_name="ArtrÌ"
+			birth_name="Artr√≠"
 			historical=yes
 			birth_date="739.1.1"
 			death_date="821.1.1"
@@ -127018,7 +127025,7 @@ CK2txt
 		}
 		83780=
 		{
-			birth_name="DauÌ Iarlaithe"
+			birth_name="Dau√≠ Iarlaithe"
 			historical=yes
 			birth_date="460.1.1"
 			death_date="510.1.1"
@@ -127081,7 +127088,7 @@ CK2txt
 		}
 		83784=
 		{
-			birth_name="¡ed Benn·n"
+			birth_name="√Åed Benn√°n"
 			historical=yes
 			birth_date="562.1.1"
 			death_date="621.1.1"
@@ -127144,7 +127151,7 @@ CK2txt
 		}
 		83788=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="655.1.1"
 			death_date="734.1.1"
@@ -127165,7 +127172,7 @@ CK2txt
 		}
 		83789=
 		{
-			birth_name="M·el-D˙in"
+			birth_name="M√°el-D√∫in"
 			historical=yes
 			birth_date="705.1.1"
 			death_date="786.1.1"
@@ -127229,7 +127236,7 @@ CK2txt
 		}
 		83792=
 		{
-			birth_name="Cin·ed"
+			birth_name="Cin√°ed"
 			historical=yes
 			birth_date="785.1.1"
 			death_date="832.1.1"
@@ -127250,7 +127257,7 @@ CK2txt
 		}
 		83793=
 		{
-			birth_name="”lchobar"
+			birth_name="√ìlchobar"
 			historical=yes
 			birth_date="802.1.1"
 			death_date="851.1.1"
@@ -127293,7 +127300,7 @@ CK2txt
 		}
 		166335=
 		{
-			birth_name="BaithÈne"
+			birth_name="Baith√©ne"
 			nickname="nick_the_wise"
 			historical=yes
 			birth_date="536.1.1"
@@ -127336,7 +127343,7 @@ CK2txt
 		}
 		166337=
 		{
-			birth_name="LasrÈn"
+			birth_name="Lasr√©n"
 			historical=yes
 			birth_date="540.1.1"
 			death_date="605.9.16"
@@ -127396,7 +127403,7 @@ CK2txt
 		}
 		166340=
 		{
-			birth_name="SÈgÈne"
+			birth_name="S√©g√©ne"
 			historical=yes
 			birth_date="581.1.1"
 			death_date="652.8.12"
@@ -127458,7 +127465,7 @@ CK2txt
 		}
 		166343=
 		{
-			birth_name="CummÈne"
+			birth_name="Cumm√©ne"
 			historical=yes
 			birth_date="602.1.1"
 			death_date="669.2.24"
@@ -127521,7 +127528,7 @@ CK2txt
 		}
 		166346=
 		{
-			birth_name="PÌp·n"
+			birth_name="P√≠p√°n"
 			historical=yes
 			birth_date="595.1.1"
 			death_date="651.1.1"
@@ -127542,7 +127549,7 @@ CK2txt
 		}
 		166347=
 		{
-			birth_name="F·ilbe"
+			birth_name="F√°ilbe"
 			historical=yes
 			birth_date="614.1.1"
 			death_date="679.3.22"
@@ -127563,7 +127570,7 @@ CK2txt
 		}
 		166348=
 		{
-			birth_name="Colm·n"
+			birth_name="Colm√°n"
 			historical=yes
 			birth_date="512.1.1"
 			death_date="565.1.1"
@@ -127605,7 +127612,7 @@ CK2txt
 		}
 		166350=
 		{
-			birth_name="RÛn·n"
+			birth_name="R√≥n√°n"
 			historical=yes
 			birth_date="595.1.1"
 			death_date="648.1.1"
@@ -127650,7 +127657,7 @@ CK2txt
 		}
 		166352=
 		{
-			birth_name="Adomn·n"
+			birth_name="Adomn√°n"
 			nickname="nick_the_lawgiver"
 			historical=yes
 			birth_date="627.1.1"
@@ -127673,7 +127680,7 @@ CK2txt
 		}
 		166353=
 		{
-			birth_name="…nna"
+			birth_name="√ânna"
 			historical=yes
 			birth_date="460.1.1"
 			death_date="511.1.1"
@@ -127925,7 +127932,7 @@ CK2txt
 		}
 		166365=
 		{
-			birth_name="F·ilbe"
+			birth_name="F√°ilbe"
 			historical=yes
 			birth_date="616.1.1"
 			death_date="683.1.1"
@@ -127967,7 +127974,7 @@ CK2txt
 		}
 		166368=
 		{
-			birth_name="Conall-C˙"
+			birth_name="Conall-C√∫"
 			historical=yes
 			birth_date="573.1.1"
 			death_date="604.1.1"
@@ -127988,7 +127995,7 @@ CK2txt
 		}
 		166467=
 		{
-			birth_name="M·el-Coba"
+			birth_name="M√°el-Coba"
 			historical=yes
 			birth_date="575.1.1"
 			death_date="615.1.1"
@@ -128030,7 +128037,7 @@ CK2txt
 		}
 		166370=
 		{
-			birth_name="Conall-CÛel"
+			birth_name="Conall-C√≥el"
 			historical=yes
 			birth_date="600.1.1"
 			death_date="654.1.1"
@@ -128051,7 +128058,7 @@ CK2txt
 		}
 		166371=
 		{
-			birth_name="Cinn-F·elad"
+			birth_name="Cinn-F√°elad"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="666.1.1"
@@ -128072,7 +128079,7 @@ CK2txt
 		}
 		166372=
 		{
-			birth_name="D˙nchad"
+			birth_name="D√∫nchad"
 			historical=yes
 			birth_date="654.1.1"
 			death_date="717.5.25"
@@ -128093,7 +128100,7 @@ CK2txt
 		}
 		166373=
 		{
-			birth_name="DorbbÈne"
+			birth_name="Dorbb√©ne"
 			historical=yes
 			birth_date="650.1.1"
 			death_date="713.10.28"
@@ -128113,7 +128120,7 @@ CK2txt
 		}
 		166374=
 		{
-			birth_name="F·elch˙"
+			birth_name="F√°elch√∫"
 			historical=yes
 			birth_date="661.1.1"
 			death_date="724.1.1"
@@ -128153,7 +128160,7 @@ CK2txt
 		}
 		166376=
 		{
-			birth_name="CillÈne-Fota"
+			birth_name="Cill√©ne-Fota"
 			historical=yes
 			birth_date="665.1.1"
 			death_date="726.1.1"
@@ -128173,7 +128180,7 @@ CK2txt
 		}
 		166377=
 		{
-			birth_name="CillÈne-Droichtech"
+			birth_name="Cill√©ne-Droichtech"
 			historical=yes
 			birth_date="693.1.1"
 			death_date="752.1.1"
@@ -128193,7 +128200,7 @@ CK2txt
 		}
 		166378=
 		{
-			birth_name="SlÈibÌne"
+			birth_name="Sl√©ib√≠ne"
 			historical=yes
 			birth_date="702.1.1"
 			death_date="767.1.1"
@@ -128480,7 +128487,7 @@ CK2txt
 		}
 		160267=
 		{
-			birth_name="CadlÈn"
+			birth_name="Cadl√©n"
 			historical=yes
 			birth_date="645.1.1"
 			death_date="740.7.1"
@@ -128501,7 +128508,7 @@ CK2txt
 		}
 		160268=
 		{
-			birth_name="¡ed"
+			birth_name="√Åed"
 			historical=yes
 			birth_date="610.1.1"
 			death_date="710.7.1"
@@ -128564,7 +128571,7 @@ CK2txt
 		}
 		160271=
 		{
-			birth_name="C·rthind"
+			birth_name="C√°rthind"
 			historical=yes
 			birth_date="495.1.1"
 			death_date="540.1.1"
@@ -128606,7 +128613,7 @@ CK2txt
 		}
 		160273=
 		{
-			birth_name="T·l Cas"
+			birth_name="T√°l Cas"
 			historical=yes
 			birth_date="400.1.1"
 			death_date="458.7.1"
@@ -128669,7 +128676,7 @@ CK2txt
 		}
 		160276=
 		{
-			birth_name="”engus TÌrich"
+			birth_name="√ìengus T√≠rich"
 			historical=yes
 			birth_date="280.1.1"
 			death_date="360.7.1"
@@ -130938,7 +130945,7 @@ CK2txt
 		}
 		74003=
 		{
-			birth_name="Bˆri-Shad"
+			birth_name="B√∂ri-Shad"
 			historical=yes
 			birth_date="612.1.1"
 			death_date="650.1.1"
@@ -131133,7 +131140,7 @@ CK2txt
 		}
 		74011=
 		{
-			birth_name="KundaÁ"
+			birth_name="Kunda√ß"
 			historical=yes
 			birth_date="724.1.1"
 			death_date="760.1.1"
@@ -131217,7 +131224,7 @@ CK2txt
 		}
 		74014=
 		{
-			birth_name="M‰n‰s"
+			birth_name="M√§n√§s"
 			historical=yes
 			birth_date="793.1.1"
 			death_date="825.1.1"
@@ -131502,7 +131509,7 @@ CK2txt
 		}
 		159547=
 		{
-			birth_name="Balaxö"
+			birth_name="Balax¬ö"
 			historical=yes
 			birth_date="30.11.1"
 			death_date="104.1.29"
@@ -131544,7 +131551,7 @@ CK2txt
 		}
 		159549=
 		{
-			birth_name="Balaxö"
+			birth_name="Balax¬ö"
 			historical=yes
 			birth_date="100.11.1"
 			death_date="191.1.29"
@@ -131565,7 +131572,7 @@ CK2txt
 		}
 		159550=
 		{
-			birth_name="Balaxö"
+			birth_name="Balax¬ö"
 			historical=yes
 			birth_date="130.11.1"
 			death_date="208.1.29"
@@ -133736,7 +133743,7 @@ CK2txt
 		}
 		161044=
 		{
-			birth_name="K¸"
+			birth_name="K√º"
 			historical=yes
 			birth_date="780.1.1"
 			death_date="830.1.1"
@@ -133930,7 +133937,7 @@ CK2txt
 		}
 		184014=
 		{
-			birth_name="KonatÈ"
+			birth_name="Konat√©"
 			historical=yes
 			birth_date="805.1.1"
 			death_date="860.1.1"
@@ -134185,7 +134192,7 @@ CK2txt
 		}
 		167715=
 		{
-			birth_name="Rˆgnvaldr"
+			birth_name="R√∂gnvaldr"
 			historical=yes
 			birth_date="810.1.1"
 			death_date="860.1.1"
@@ -134370,7 +134377,7 @@ CK2txt
 		}
 		167781=
 		{
-			birth_name="Gufrith"
+			birth_name="Gu√∞frith"
 			historical=yes
 			birth_date="820.1.1"
 			death_date="856.1.1"
@@ -134433,7 +134440,7 @@ CK2txt
 		}
 		168317=
 		{
-			birth_name="÷ysteinn"
+			birth_name="√ñysteinn"
 			historical=yes
 			birth_date="740.1.1"
 			death_date="790.1.1"
@@ -134455,7 +134462,7 @@ CK2txt
 		}
 		168318=
 		{
-			birth_name="Gurˆr"
+			birth_name="Gu√∞r√∂√∞r"
 			historical=yes
 			birth_date="745.1.1"
 			death_date="795.1.1"
@@ -134498,7 +134505,7 @@ CK2txt
 		}
 		168320=
 		{
-			birth_name="Gurˆr"
+			birth_name="Gu√∞r√∂√∞r"
 			historical=yes
 			birth_date="805.1.1"
 			death_date="865.1.1"
@@ -134543,7 +134550,7 @@ CK2txt
 		}
 		168324=
 		{
-			birth_name="Sigurr"
+			birth_name="Sigur√∞r"
 			historical=yes
 			birth_date="849.1.1"
 			death_date="858.1.1"
@@ -134586,7 +134593,7 @@ CK2txt
 		}
 		168327=
 		{
-			birth_name="ﬁor"
+			birth_name="√ûor"
 			historical=yes
 			birth_date="828.1.1"
 			death_date="848.1.1"
@@ -134607,7 +134614,7 @@ CK2txt
 		}
 		168611=
 		{
-			birth_name="Bjˆrn"
+			birth_name="Bj√∂rn"
 			historical=yes
 			birth_date="790.1.1"
 			death_date="850.1.1"
@@ -134648,7 +134655,7 @@ CK2txt
 		}
 		168632=
 		{
-			birth_name="ﬁyra"
+			birth_name="√ûyra"
 			historical=yes
 			female=yes
 			birth_date="812.1.1"
@@ -134691,7 +134698,7 @@ CK2txt
 		}
 		168648=
 		{
-			birth_name="Sigurr"
+			birth_name="Sigur√∞r"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="855.1.1"
@@ -135222,7 +135229,7 @@ CK2txt
 		}
 		127006=
 		{
-			birth_name="FrÈdelon"
+			birth_name="Fr√©delon"
 			historical=yes
 			birth_date="818.1.1"
 			death_date="852.1.1"
@@ -135270,7 +135277,7 @@ CK2txt
 		}
 		168131=
 		{
-			birth_name="…menon"
+			birth_name="√âmenon"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="866.1.1"
@@ -136017,7 +136024,7 @@ CK2txt
 		}
 		180173=
 		{
-			birth_name="BayÁa"
+			birth_name="Bay√ßa"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="860.1.1"
@@ -136083,7 +136090,7 @@ CK2txt
 		}
 		180235=
 		{
-			birth_name="÷zlem"
+			birth_name="√ñzlem"
 			historical=yes
 			female=yes
 			birth_date="810.1.1"
@@ -142814,7 +142821,7 @@ CK2txt
 		}
 		33355=
 		{
-			birth_name="∆thelwulf"
+			birth_name="√Üthelwulf"
 			historical=yes
 			birth_date="795.1.1"
 			death_date="858.1.13"
@@ -142837,7 +142844,7 @@ CK2txt
 		}
 		33356=
 		{
-			birth_name="∆thelbald"
+			birth_name="√Üthelbald"
 			historical=yes
 			birth_date="834.1.1"
 			death_date="860.12.20"
@@ -142860,7 +142867,7 @@ CK2txt
 		}
 		33357=
 		{
-			birth_name="∆thelbert"
+			birth_name="√Üthelbert"
 			historical=yes
 			birth_date="836.1.1"
 			death_date="865.9.1"
@@ -143733,7 +143740,7 @@ CK2txt
 		}
 		189048=
 		{
-			birth_name="Ir‚c‚cekara"
+			birth_name="Ir√¢c√¢cekara"
 			historical=yes
 			birth_date="780.1.1"
 			death_date="844.1.1"
@@ -143777,7 +143784,7 @@ CK2txt
 		}
 		189059=
 		{
-			birth_name="M‚ravarman"
+			birth_name="M√¢ravarman"
 			historical=yes
 			birth_date="553.1.1"
 			death_date="620.1.1"
@@ -143840,7 +143847,7 @@ CK2txt
 		}
 		189062=
 		{
-			birth_name="ArikÍcari"
+			birth_name="Arik√™cari"
 			historical=yes
 			birth_date="643.1.1"
 			death_date="710.1.1"
@@ -143861,7 +143868,7 @@ CK2txt
 		}
 		189063=
 		{
-			birth_name="RanatÓran"
+			birth_name="Ranat√Æran"
 			historical=yes
 			birth_date="666.1.1"
 			death_date="735.1.1"
@@ -143882,7 +143889,7 @@ CK2txt
 		}
 		189064=
 		{
-			birth_name="Ir‚cacimman"
+			birth_name="Ir√¢cacimman"
 			historical=yes
 			birth_date="701.1.1"
 			death_date="765.1.1"
@@ -143903,7 +143910,7 @@ CK2txt
 		}
 		189065=
 		{
-			birth_name="Par‚ntaka"
+			birth_name="Par√¢ntaka"
 			historical=yes
 			birth_date="733.1.1"
 			death_date="790.1.1"
@@ -143924,7 +143931,7 @@ CK2txt
 		}
 		189066=
 		{
-			birth_name="Ir‚cacimman"
+			birth_name="Ir√¢cacimman"
 			historical=yes
 			birth_date="760.1.1"
 			death_date="800.1.1"
@@ -143966,7 +143973,7 @@ CK2txt
 		}
 		189068=
 		{
-			birth_name="CÓvallapan"
+			birth_name="C√Ævallapan"
 			historical=yes
 			birth_date="800.1.1"
 			death_date="862.1.1"
@@ -150190,8 +150197,21 @@ CK2txt
 			religion="catholic"
 			culture="welsh"
 			dynasty=547
+			ledger=
+			{
+			}
 			dna="rtgtroqyudn"
 			properties="c00gbk00000"
+			ledger=
+			{
+				income=
+				{
+5.29003 2.52435 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 				}
+				lastmonthincometable=
+				{
+2.64502 1.26217 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 				}
+				lastmonthincome=3.90719
+			}
 		}
 	}
 	relation=
