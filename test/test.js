@@ -7,8 +7,7 @@ var chai           = require('chai'),
 
 chai.use(chaiAsPromised);
 
-// var SAVEFILE   = path.join(__dirname, 'testSave.ck2');
-var SAVEFILE = '/Users/chriskjaer/Documents/Paradox Interactive/Crusader Kings II/save games/Kelizi.ck2';
+var SAVEFILE   = path.join(__dirname, 'testSave.ck2');
 var parsedFile = parse(SAVEFILE);
 
 describe('Parser promise:', function () {
