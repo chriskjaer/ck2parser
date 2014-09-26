@@ -12,7 +12,7 @@ Install package with npm. `npm install ck2parser --save`
 
 ```
 var parse = require('ck2parser');
-var SAVEGAME = '../path/to/you/savefile.ck2';
+var SAVEGAME = '../path/to/your/savefile.ck2';
 
 parse(SAVEGAME)
   .then(console.log)
