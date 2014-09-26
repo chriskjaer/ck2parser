@@ -1,9 +1,12 @@
+/* global describe, it, before */
 'use strict';
+
 var chai           = require('chai'),
     chaiAsPromised = require('chai-as-promised'),
     path           = require('path'),
-    should         = chai.should(),
-    parse          = require('./../lib/');
+    R              = require('ramda'),
+    parse          = require('./../lib/'),
+    should         = chai.should();
 
 chai.use(chaiAsPromised);
 
@@ -20,21 +23,56 @@ describe('Parser promise:', function () {
     return parse('./wrong-path/foo.txt').should.eventually.be.rejected;
   });
 
-  describe('The promise should contain: ', function () {
-    it('a version number', function () {
+  describe('The promise should contain a: ', function () {
+    it('version number', function () {
       return parsedFile.should.eventually.have.property('version');
     });
 
-    it('a player property', function () {
+    it('player property', function () {
       return parsedFile.should.eventually.have.property('player');
     });
 
-    it('a dynasty propery', function () {
+    it('dynasty propery', function () {
       return parsedFile.should.eventually.have.property('dynasties');
     });
 
-    it('a character property', function () {
+    it('character property', function () {
       return parsedFile.should.eventually.have.property('character');
+    });
+
+    describe('Each character should contain a: ', function () {
+      var characters = {};
+      before(function () {
+        parsedFile.then(function (data) {
+          characters = data.character;
+        });
+      });
+
+      var testableStringProps = [
+        'birth_name',
+        'birth_date',
+        'religion',
+        'culture',
+        'dna',
+        'properties'
+      ];
+
+      testableStringProps.map(function(prop) {
+        it(prop + ' property', function () {
+          R.mapObj(function (char) {
+            char.should.have.property(prop);
+            char[prop].should.be.a('string');
+          }, characters);
+        });
+      });
+
+      it('attributes array with 5 entries', function () {
+        R.mapObj(function (char) {
+          char.should.have.property('attributes');
+          char.attributes.should.be.an('array').and.have.length(5);
+        }, characters);
+      });
+
     });
   });
 });
