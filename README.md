@@ -1,5 +1,5 @@
 # Crusader Kings 2 Savegame Parser
-A CK2 Savegame to JSON parser for the Paradox Game: [http://www.crusaderkings.com/](Crusader Kings 2).
+A CK2 Savegame to JSON parser for the Paradox Game: [Crusader Kings 2](http://www.crusaderkings.com/).
 
 
 ## Features
@@ -31,4 +31,4 @@ parse(SAVEGAME)
 ## Copyright and license
 Copyright Chris Kjær Sørensen
 
-[License.md](LICENSE-MIT)
+[LICENSE MIT](LICENSE.md)
