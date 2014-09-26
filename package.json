@@ -1,6 +1,6 @@
 {
   "name": "ck2parser",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Crusader Kings 2 Savegame Parser. Extracts all characters from a savefile and outputs it as json",
   "author": "Chris Kjær Sørensen",
   "homepage": "https://github.com/chriskjaer/ck2parser",
@@ -34,8 +34,6 @@
   "devDependencies": {
     "chai": "^1.9.1",
     "chai-as-promised": "^4.1.1",
-    "gulp-mocha": "^1.1.0",
-    "jison": "^0.4.15",
     "mocha": "^1.21.4"
   }
 }
